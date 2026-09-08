@@ -1111,3 +1111,164 @@ data,er,osulc201,2
 data,er,ecken201,5
 data,er,delcr201,0
 data,er,gildl201,0
+id,SFF202609060
+info,visteam,BSH
+info,hometeam,SFF
+info,site,SPR03
+info,date,2026/09/06
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,7
+info,umphome,hartk701
+info,ump1b,monaa701
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,(none)
+info,umprf,(none)
+info,temp,79
+info,winddir,fromcf
+info,fieldcond,dry
+info,precip,none
+info,sky,cloudy
+info,timeofgame,138
+info,wp,ecken201
+info,lp,dumam201
+info,save,(none)
+start,hastl201,"Lexi Hastings",0,1,8
+start,bryad201,"Denver Bryant",0,2,5
+start,schra201,"Alli Schroder",0,3,3
+start,paddm201,"Molly Paddison",0,4,9
+start,delee201,"Edith De Leija",0,5,10
+start,geldt201,"Ticara Geldenhuis",0,6,7
+start,yamas201,"Suzuka Yamamoto",0,7,4
+start,padgr201,"Raine Padgham",0,8,6
+start,greeb201,"Beth Greenwood",0,9,2
+start,brico201,"Olivia Bricker",0,0,1
+start,giana201,"Amanda Gianelloni",1,1,4
+start,whitk201,"Kelsie Whitmore",1,2,10
+start,kapls201,"Skylar Kaplan",1,3,9
+start,lebla201,"Andreanne Leblanc",1,4,3
+start,jorga201,"Alexia Jorge",1,5,2
+start,leguj201,"Joely Leguizamon",1,6,6
+start,parkj201,"Jua Park",1,7,7
+start,daybe201,"Ela Day-Bedard",1,8,8
+start,yamaa201,"Ayaka Yamamoto",1,9,5
+start,ecken201,"Niki Eckert",1,0,1
+com,"Official stats website not available; error and unearned run assignments may be speculatory"
+play,1,0,hastl201,20,BBX,S9/L
+play,1,0,bryad201,01,1S>B,WP.1-2
+com,"$Ball got away from the catcher, runner just barely beat out the tag"
+play,1,0,bryad201,12,1S>B.CX,143/G.2-3
+com,"$Ball over Eckert's head, she deflected it off the tip of her glove"
+play,1,0,schra201,10,BX,3/G.3-H(RBI)
+play,1,0,paddm201,12,CBSX,E4/G
+com,"$Bobbled catch"
+play,1,0,delee201,22,BBCFX,13/G
+play,1,1,giana201,01,CX,7/F
+play,1,1,whitk201,12,FFBX,S8/G
+play,1,1,kapls201,10,BX,64(1)3/GDP
+play,2,0,geldt201,32,CBBCBFFFX,S8/G
+play,2,0,yamas201,01,C1X,53/BG/SH.1-2
+com,"$Bunt right down the line"
+play,2,0,padgr201,22,BCBCX,8/F
+play,2,0,greeb201,00,X,4/P
+play,2,1,lebla201,12,CBCX,63/G
+play,2,1,jorga201,21,BBFX,7/F
+play,2,1,leguj201,21,SBBX,8/F
+play,3,0,hastl201,30,BBBB,W
+play,3,0,bryad201,11,BC1>B,SB2
+play,3,0,bryad201,32,BC1>B.BSB,W
+play,3,0,schra201,11,BCX,D8/F.2-H(RBI);1-H(RBI)
+com,"$To the wall"
+play,3,0,paddm201,00,X,53/G.2-3
+com,"$High throw pulled Leblanc off base but she made the tag"
+play,3,0,delee201,10,BX,D7/F.3-H(RBI)
+com,"$Into the LF corner"
+play,3,0,geldt201,12,BFCFFFX,E5/TH1/G.2-H(NR)(UR);B-2
+com,"$Throw got by 1B, ball went into tarp and was ruled dead"
+play,3,0,yamas201,12,BCFC,K/C
+com,"$Strike one call was very delayed; Yamamoto was initially unaware that she was out"
+play,3,0,padgr201,22,SBCBS,K
+play,3,1,parkj201,20,BBX,43/L
+play,3,1,daybe201,02,FFFH,HP
+play,3,1,yamaa201,12,CFBF1X,S8/L.1-2
+play,3,1,giana201,11,FBX,8/F
+play,3,1,whitk201,00,X,HR/F7D.2-H(RBI);1-H(RBI)
+play,3,1,kapls201,10,BX,S7/L
+play,3,1,lebla201,22,CFBBFX,E5/G.1-3(E5/TH1);B-2
+com,"$Bobbled catch, and then a rushed errant throw out of play"
+play,3,1,jorga201,32,BBFBFB,W
+play,3,1,leguj201,20,BBX,63/G
+play,4,0,greeb201,10,BX,8/F
+play,4,0,hastl201,01,CX,43/G
+play,4,0,bryad201,31,BBFBX,63/G
+play,4,1,parkj201,00,,NP
+sub,dumam201,"Maika Dumais",0,0,1
+play,4,1,parkj201,30,.BBBB,W
+play,4,1,daybe201,00,X,S8/L.1-2
+play,4,1,yamaa201,22,CCBBFFX,43/G.2-3;1-2
+com,"$Great running catch by Yamamoto"
+play,4,1,giana201,10,BX,D9/F.3-H(RBI);2-H(RBI)
+com,"$Into the RF corner"
+play,4,1,whitk201,00,X,63/G.2-3
+play,4,1,kapls201,00,X,S8/L.3-H(RBI)
+com,"$Just over the leaping SS"
+play,4,1,lebla201,10,BN,BK.1-2
+play,4,1,lebla201,31,BN.BBFB,W
+play,4,1,jorga201,10,BH,HP.2-3;1-2
+play,4,1,leguj201,10,BX,S8/L.3-H(RBI);2-3;1-2
+play,4,1,parkj201,32,BBCBCX,D9/F.3-H(RBI);2-H(RBI);1-H(RBI)
+play,4,1,daybe201,00,,NP
+sub,blunk201,"Kate Blunt",0,0,1
+play,4,1,daybe201,00,.X,63/G
+play,5,0,schra201,00,,NP
+sub,delcr201,"Rosi Del Castillo",1,0,1
+play,5,0,schra201,00,.X,8/F
+play,5,0,paddm201,21,CBBX,S4/G
+com,"$2B made the sliding stop, but she couldn't make the throw from her knees"
+play,5,0,delee201,11,BC1X,16(1)/FO/G
+com,"$Throw to 1B for attempted double play went wide, but catcher backed up the play"
+play,5,0,geldt201,01,CX,53/G
+play,5,1,yamaa201,22,CFBBX,S8/L
+play,5,1,giana201,32,BBC1SBX,DGR7/G.1-3
+com,"$Into the LF corner and lodged under the fence"
+play,5,1,whitk201,10,BX,8/F/SF.3-H(RBI);2-H(E8/TH)(NR)
+com,"$Throw from CF got away from the 2B, allowing additional advance"
+play,5,1,kapls201,01,CX,S7/L
+play,5,1,lebla201,11,BCX,5/P/FL
+com,"$Bryant bobbled the ball on the initial catch but managed to juggle it back into her glove"
+play,5,1,jorga201,30,BBBX,S7/L.1-2
+play,5,1,leguj201,00,,NP
+sub,schig201,"Gigi Schiano",0,0,1
+play,5,1,leguj201,31,.BFBBX,2/P/FL
+com,"$Right behind home plate"
+play,6,0,yamas201,00,,NP
+sub,corip201,"Peyton Coria",1,0,1
+play,6,0,yamas201,10,.BX,3/P
+play,6,0,padgr201,10,BX,8/F
+play,6,0,greeb201,00,X,53/G
+com,"$Long throw once again pulled Leblanc off base but she recovered to tag out the batter"
+play,6,1,parkj201,30,BBBB,W
+play,6,1,daybe201,00,>B,SB2
+play,6,1,daybe201,32,>B.BFFBH,HP
+play,6,1,yamaa201,01,CX,46(1)3/GDP.2-3
+play,6,1,giana201,11,CBX,D8/F.3-H(RBI)
+play,6,1,whitk201,22,SBCBS,K
+play,7,0,hastl201,32,BFBFBX,D7/F
+com,"$Almost caught on the long run by the sliding LF, but she was not able to secure it"
+play,7,0,bryad201,12,BCCX,S9/F.2-H(RBI);BX2(96)
+com,"$To the wall; Kaplan made a great throw to nail Bryant close to the plate"
+play,7,0,schra201,02,CFFX,HR/F8D
+play,7,0,paddm201,22,BBCCS,K
+play,7,0,delee201,00,X,S9/G
+com,"$Past the tumbling 2B into right field"
+play,7,0,geldt201,22,CCFBBX,7/L
+data,er,brico201,3
+data,er,dumam201,7
+data,er,blunk201,2
+data,er,schig201,1
+data,er,ecken201,4
+data,er,delcr201,0
+data,er,corip201,2

@@ -691,10 +691,11 @@ play,6,0,studl201,10,B>B,SB2
 play,6,0,studl201,32,B>B.BCCX,3/G.2-3
 play,6,0,murpk201,20,BBX,S6/L.3-3
 com,"ej,weekj001,M,pullj701,Catch/trap call"
-com,"$Hunters manager Weeks ejected by basepath umpire Pullano for arguing Murphy's ball had been caught"
-com,"$Low-res replay suggests the ball was indeed caught but basepath umpire was turned away"
-com,"$If ruled a catch, would have likely been a 6-5 line-into-double-play, i.e. 6(B)5(3)/LDP"
-com,"$League policy mandated an automatic one-game suspension for the ejection"
+com,"$Hunters manager Jemile Weeks ejected by basepath umpire Joelyn Pullano for arguing Murphy's"
+com,"$ball had been caught. Low-res replay suggests the ball was indeed caught but basepath umpire"
+com,"$was turned away. If ruled a catch, would have likely been a 6-5 line-into-double-play, i.e."
+com,"$6(B)5(3)/LDP. League policy mandated an automatic one-game suspension for the ejection, served"
+com,"$during the Hunters' next game on August 22."
 play,6,0,zetta201,00,>B,CS2(26)
 play,6,0,zetta201,10,>B.X,8/F
 play,6,1,paddm201,00,,NP
@@ -1046,7 +1047,7 @@ info,starttime,6:30PM
 info,daynight,night
 info,innings,7
 info,umphome,beras701
-info,ump1b,(none)
+info,ump1b,hartk701
 info,ump2b,(none)
 info,ump3b,(none)
 info,umplf,(none)
@@ -1079,8 +1080,7 @@ start,padgr201,"Raine Padgham",1,7,6
 start,greeb201,"Beth Greenwood",1,8,2
 start,yamas201,"Suzuka Yamamoto",1,9,4
 start,blunk201,"Kate Blunt",1,0,1
-com,"I was unable to find the name of the base path umpire"
-com,"Official stats website not available; error assignments may be speculatory"
+com,"Official stats website not available; error and unearned run assignments may be speculatory"
 play,1,0,giana201,02,CSC,K
 play,1,0,whitk201,32,FBBFFBH,HP
 play,1,0,leguj201,02,SCX,8/F
@@ -1210,3 +1210,166 @@ data,er,corip201,3
 data,er,blunk201,0
 data,er,dumam201,3
 data,er,brico201,0
+id,BSH202609050
+info,visteam,LAQ
+info,hometeam,BSH
+info,site,SPR03
+info,date,2026/09/05
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,7
+info,umphome,monaa701
+info,ump1b,hartk701
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,(none)
+info,umprf,(none)
+info,temp,90
+info,winddir,torf
+info,fieldcond,dry
+info,precip,none
+info,sky,cloudy
+info,timeofgame,139
+info,wp,satoa201
+info,lp,schra201
+info,save,(none)
+start,benis201,"Samaria Benitez",0,1,4
+start,shima201,"Ayuri Shimano",0,2,6
+start,lansa201,"Ashton Lansdell",0,3,5
+start,mackj201,"Jamie Mackay",0,4,2
+start,eynoc201,"Caitlin Eynon",0,5,10
+start,edwas201,"Sarah Edwards",0,6,3
+start,villi201,"Isabella Villarreal",0,7,7
+start,honda201,"Amira Hondras",0,8,9
+start,davim201,"Mo'ne Davis",0,9,8
+start,satoa201,"Ayami Sato",0,0,1
+start,hastl201,"Lexi Hastings",1,1,8
+start,bryad201,"Denver Bryant",1,2,10
+start,geldt201,"Ticara Geldenhuis",1,3,7
+start,paddm201,"Molly Paddison",1,4,9
+start,padgr201,"Raine Padgham",1,5,6
+start,haasg201,"Gabrielle Haas",1,6,5
+start,blunk201,"Kate Blunt",1,7,4
+start,dumam201,"Maika Dumais",1,8,3
+start,kim-h201,"Hyeonah Kim",1,9,2
+start,schra201,"Alli Schroder",1,0,1
+com,"Official stats website not available; error and unearned run assignments may be speculatory"
+play,1,0,benis201,12,CCBX,E6/TH1/G
+com,"$Long throw that pulled 1B off of the bag"
+play,1,0,shima201,21,BFBX,S9/L.1-2
+play,1,0,lansa201,20,BBX,S8/G.2-H(E8)(RBI)(UR);1-3
+com,"$Ball was bobbled on the transfer"
+play,1,0,mackj201,00,>B,SB2.3-H(E2/TH2)(NR)(UR);1-3
+com,"$Ball was thrown well over the 2B's head"
+play,1,0,mackj201,31,>B.CBBB,W
+play,1,0,eynoc201,00,>C,SB2
+play,1,0,eynoc201,21,>C.BBX,D9/F.3-H(RBI);2-3
+com,"$Right into the RF corner, runner on 2nd held for potential catch"
+play,1,0,edwas201,11,BCX,S8/L.3-H(RBI);2-3
+play,1,0,villi201,00,X,S9/G.3-H(RBI);1-2
+play,1,0,honda201,32,CBFFFBBB,W.2-3;1-2
+play,1,0,davim201,31,BBBCB,W.3-H(RBI);2-3;1-2
+play,1,0,benis201,22,BCBSFX,64(1)/FO/G.3-H(RBI);2-3
+play,1,0,shima201,12,BSCS,K
+play,1,0,lansa201,10,BX,S9/G.3-H(RBI)(UR);1-2
+com,"$Just past the running 2B"
+play,1,0,mackj201,00,X,5(2)/FO/G
+play,1,1,hastl201,00,X,HR/F89D
+play,1,1,bryad201,00,X,S7/G
+play,1,1,geldt201,22,CSBBX,2/P/FL
+play,1,1,paddm201,12,CFF1FBX,4(B)3(1)/LDP
+play,2,0,eynoc201,00,,NP
+sub,benap201,"Paloma Benach",1,0,1
+play,2,0,eynoc201,12,.CBSFX,8/F
+play,2,0,edwas201,21,BBCX,5/L/FL
+com,"$Great catch on the run into foul territory"
+play,2,0,villi201,12,BSFX,S8/P
+com,"$CF called for it the entire time although it was closest to 2B and SS, ball fell between all three"
+play,2,0,honda201,01,CX,8/F
+play,2,1,padgr201,00,X,53/G
+play,2,1,haasg201,12,BCSX,D7/G
+com,"$Past the diving 3B"
+play,2,1,blunk201,01,CX,9/F
+play,2,1,dumam201,31,FBBBB,W
+play,2,1,kim-h201,32,BBBCCFFC,K/C
+play,3,0,davim201,01,CX,43/L
+com,"$Lined right at Blunt who knocked it down, recovered, and made the throw"
+play,3,0,benis201,01,FX,S9/L
+play,3,0,shima201,32,BBBCF1FX,8/L
+play,3,0,lansa201,02,CFB,WP.1-2
+play,3,0,lansa201,32,CFB.BFBX,8/F
+com,"$Great catch on the long run"
+play,3,1,hastl201,00,,NP
+sub,rochm201,"Michelle Roche",0,0,1
+play,3,1,hastl201,32,.SBBBFB,W
+play,3,1,bryad201,01,1CX,63/G.1-2
+play,3,1,geldt201,01,CX,4/P
+play,3,1,paddm201,02,ST+2X,E3/G.2-H(NR)(UR)
+com,"$Fumbled fielding attempt, runner from second never stopped"
+play,3,1,padgr201,01,SX,53/G
+play,4,0,mackj201,21,BBFX,S8/G
+play,4,0,eynoc201,22,SSFFBFFBX,D7/F.1-3
+com,"$Off the bottom of the wall"
+play,4,0,edwas201,32,BSBFFBB,W
+play,4,0,villi201,00,X,63/G.3-H(RBI);2-3;1-2
+play,4,0,honda201,01,CX,1(B)6(2)/LDP
+play,4,1,haasg201,12,FCBX,53/G
+play,4,1,blunk201,31,BBCBX,53/G
+play,4,1,dumam201,00,X,3/G
+play,5,0,davim201,22,BBCCX,3/P/FL
+play,5,0,benis201,12,FBFX,53/G
+play,5,0,shima201,01,FX,2/P
+com,"$Right in front of home plate"
+play,5,1,kim-h201,00,,NP
+sub,shima201,"Ayuri Shimano",0,2,1
+play,5,1,kim-h201,00,.,NP
+sub,eynoc201,"Caitlin Eynon",0,5,6
+play,5,1,kim-h201,00,..,NP
+sub,ibard201,"Diana Ibarra",0,9,8
+play,5,1,kim-h201,31,...BSBBH,HP
+play,5,1,hastl201,00,X,2/BP
+com,"$Bunt pop-up went perfectly vertical and was caught right over home plate"
+play,5,1,bryad201,00,B,WP.1-2
+play,5,1,bryad201,32,B.BSSBB,W
+play,5,1,geldt201,11,SB+2,PO2.2X3(2654);1-2
+play,5,1,geldt201,31,SB+2.BBB,W
+play,5,1,paddm201,31,BBBCB,W.2-3;1-2
+play,5,1,padgr201,32,BCCBBB,W+WP.3-H(RBI);2-H(NR);1-3;B-2
+com,"$Geldenhuis got a hand in at home just in time"
+play,5,1,haasg201,31,BBFBX,S9/F.3-H(RBI);2-H(RBI)
+com,"$1B, 2B, and RF all converged on the ball but none could make it"
+play,5,1,blunk201,32,FFBBBS,K
+play,6,0,lansa201,00,,NP
+sub,schig201,"Gigi Schiano",1,0,1
+play,6,0,lansa201,10,.BX,D8/F
+com,"$At the bottom of the wall"
+play,6,0,mackj201,00,>B,SB3
+play,6,0,mackj201,31,>B.BFBX,E5/TH1/G.3-H(RBI);B-2
+com,"$Throw went well-wide and got lodged out of play"
+play,6,0,eynoc201,10,BX,7/F
+play,6,0,edwas201,32,CBCBBB,W
+play,6,0,villi201,00,X,8/FDP.2X3(85)
+com,"$One-hop throw on the money from CF Hastings"
+play,6,1,dumam201,00,,NP
+sub,meidm201,"Meggie Meidlinger",0,2,1
+play,6,1,dumam201,22,.BCFBX,43/G
+play,6,1,kim-h201,01,CX,D7/L
+com,"$Rolled to the wall"
+play,6,1,hastl201,01,FX,4/P
+play,6,1,bryad201,20,B2BX,9/F
+play,7,0,honda201,10,BX,6/P
+play,7,0,ibard201,32,BBCFFBB,W
+play,7,0,benis201,10,B1X,S8/L.1-2
+play,7,0,meidm201,21,CBBX,54(1)3/GDP
+play,7,1,geldt201,11,FBX,2/P/FL
+play,7,1,paddm201,22,CFBBFS,K
+play,7,1,padgr201,10,BX,3/P/FL
+data,er,satoa201,1
+data,er,rochm201,0
+data,er,shima201,4
+data,er,meidm201,0
+data,er,schra201,5
+data,er,benap201,1
+data,er,schig201,1

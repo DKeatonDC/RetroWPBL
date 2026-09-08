@@ -981,7 +981,7 @@ info,gametype,regular
 info,starttime,6:30PM
 info,daynight,night
 info,innings,7
-info,umphome,(none)
+info,umphome,hartk701
 info,ump1b,beras701
 info,ump2b,(none)
 info,ump3b,(none)
@@ -1015,7 +1015,6 @@ start,edwas201,"Sarah Edwards",1,6,3
 start,foxxm201,"Maggie Foxx",1,7,2
 start,baira201,"Addisyn Baird",1,8,7
 start,davim201,"Mo'ne Davis",1,9,8
-com,"I was unable to find the name of the home plate umpire"
 com,"Official stats website not available; error and unearned run assignments may be speculatory"
 play,1,0,yonen201,12,BCFC,K
 play,1,0,benid201,12,BCSS,K
