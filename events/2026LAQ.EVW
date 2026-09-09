@@ -45,7 +45,7 @@ start,apgab201,"Britt Apgar",1,9,9
 start,rochm201,"Michelle Roche",1,0,1
 play,1,0,blunk201,22,FBCFFFBX,7/F
 play,1,0,delee201,01,CX,13/G
-play,1,0,bryad201,00,X,53
+play,1,0,bryad201,00,X,53/G
 play,1,1,davim201,21,CBBX,DGR/L
 com,"$Rolled under the fence in the RF corner"
 play,1,1,honda201,11,BCX,5/P/FL
@@ -148,7 +148,7 @@ sub,dumam201,"Maika Dumais",0,8,11
 play,7,0,dumam201,21,.BCBX,46(1)/G.3-H(RBI);2-3
 play,7,0,greeb201,11,C>B,SB2
 play,7,0,greeb201,12,C>B.SH,HP
-play,7,0,blunk201,11,CBX,4(B)6(2)/LDP
+play,7,0,blunk201,11,CBX,4(B)6(2)/LDP/L
 data,er,schra201,9
 data,er,schig201,2
 data,er,rochm201,1
@@ -207,12 +207,12 @@ play,1,1,eynoc201,01,FX,E5/G
 com,"$Bobbled ball"
 play,1,1,lansa201,21,BB1CB,WP.1-2
 play,1,1,lansa201,31,BB1CB.B,W
-play,1,1,foxxm201,01,CX,5(2)3/GDP
+play,1,1,foxxm201,01,CX,5(2)3/GDP/G
 play,2,0,lebla201,02,CFX,43/G
 play,2,0,jorga201,22,CFBBX,D7/G
 com,"$Right over the 3B bag into the LF corner"
 play,2,0,delcr201,00,X,S8/L.2-3
-play,2,0,leguj201,11,B1CX,16(1)3/GDP
+play,2,0,leguj201,11,B1CX,16(1)3/GDP/G
 play,2,1,edwas201,11,BCX,43/G
 play,2,1,mackj201,00,H,HP
 play,2,1,rochm201,21,BBSX,S8/L.1-2
@@ -306,7 +306,7 @@ play,7,0,eystj201,32,CCFBBBFFFX,S7/L
 play,7,0,giana201,02,CSS,K
 com,"$Gianelloni swung so hard she fell over"
 play,7,0,whitk201,00,X,S7/G.1-2
-play,7,0,albaj201,01,FX,46(1)3/GDP
+play,7,0,albaj201,01,FX,46(1)3/GDP/G
 data,er,whitk201,7
 data,er,corip201,1
 data,er,delcr201,3
@@ -380,7 +380,7 @@ play,2,1,shima201,32,CBCBFFBB,W
 play,2,1,eynoc201,00,X,HR/F9D.1-H(RBI)
 play,2,1,edwas201,01,CX,S9/L
 play,2,1,benis201,11,BF1X,S7/G.1-2
-play,2,1,davim201,01,CX,64(1)3/GDP
+play,2,1,davim201,01,CX,64(1)3/GDP/G
 play,3,0,albaj201,12,BCCC,K/C
 play,3,0,lebla201,12,CSBFX,41/G
 com,"$Got past 1B to 2B backing up the play, who threw to the pitcher"
@@ -526,7 +526,7 @@ play,1,1,mackj201,01,CB+1,OA.1-2(E2/TH)
 com,"$Attempted pickoff throw went high over 1B's head"
 play,1,1,mackj201,12,CB+1.CC,K/C
 play,2,0,lahnk201,00,H,HP
-play,2,0,zetta201,10,BX,64(1)3/GDP
+play,2,0,zetta201,10,BX,64(1)3/GDP/G
 com,"$Excellent stop by Shimano"
 play,2,0,ciame201,12,CFBT,K
 play,2,1,shima201,31,BBCBX,43/G
@@ -774,7 +774,7 @@ play,5,1,ibard201,00,,NP
 sub,brico201,"Olivia Bricker",0,0,1
 play,5,1,ibard201,00,.,NP
 sub,davim201,"Mo'ne Davis",1,9,11
-play,5,1,davim201,01,..CX,64(1)3/GDP
+play,5,1,davim201,01,..CX,64(1)3/GDP/G
 play,6,0,haasg201,00,,NP
 sub,davim201,"Mo'ne Davis",1,9,8
 play,6,0,haasg201,00,.,NP
@@ -783,7 +783,7 @@ play,6,0,haasg201,00,..,NP
 sub,mackj201,"Jamie Mackay",1,3,7
 play,6,0,haasg201,32,...CBBSBB,W
 play,6,0,paddm201,01,CX,S8/L.1-2
-play,6,0,bryad201,00,X,64(1)3/GDP.2-3
+play,6,0,bryad201,00,X,64(1)3/GDP/G.2-3
 play,6,0,geldt201,12,SBCC,K/C
 play,6,1,benis201,02,CFFFX,S8/G
 play,6,1,lansa201,32,FFBBBB,W.1-2
@@ -1143,7 +1143,7 @@ play,7,0,osulc201,32,CFBBBFS,K
 com,"$First foul ball was very far back behind the plate, almost caught by Foxx"
 play,7,1,foxxm201,32,BFBBCB,W
 play,7,1,baira201,32,CCBBFBFS,K
-play,7,1,davim201,22,BBCFX,46(1)3/GDP
+play,7,1,davim201,22,BBCFX,46(1)3/GDP/G
 data,er,kim-r201,6
 data,er,zetta201,1
 data,er,ecclc201,0
