@@ -1333,7 +1333,8 @@ play,5,1,hastl201,00,X,2/BP
 com,"$Bunt pop-up went perfectly vertical and was caught right over home plate"
 play,5,1,bryad201,00,B,WP.1-2
 play,5,1,bryad201,32,B.BSSBB,W
-play,5,1,geldt201,11,SB+2,PO2.2X3(2654);1-2
+play,5,1,geldt201,11,SB+2,PO2(2654).1-2
+com,"$Runner on 2nd was caught taking a huge lead after the pitch, and tagged in a rundown"
 play,5,1,geldt201,31,SB+2.BBB,W
 play,5,1,paddm201,31,BBBCB,W.2-3;1-2
 play,5,1,padgr201,32,BCCBBB,W+WP.3-H(RBI);2-H(NR);1-3;B-2
