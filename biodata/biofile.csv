@@ -56,7 +56,7 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "hastl201","Hastings","Alexis","Lexi","10/08/2002","Holly Springs","North Carolina","USA","08/02/2026",,,,,,,,"L","L","5-07"
 "hartk701","Hart","Kate","Kate",,,,,,,,,,,"08/26/2026",,,,
 "hawkc701","Hawkins","Cody","Cody",,,,,,,,,,,"08/28/2026",,,,
-"henlj601","Henley","Jackson","Jackson",,,,,,,,,"08/01/2026",,,,,,
+"henlj601","Henley","Jackson","Jackson",,"San Francisco","California","USA",,,,,"08/01/2026",,,,,,
 "henlr601","Henley","Rachelle McCann","Rocky","01/24/1969","San Francisco","California","USA",,,"07/26/2026",,,,,,"R","R","5-06"
 "hernl201","Hernandez","Luisa","Luisa","07/05/1991","Lagos de Moreno","Jalisco","Mexico",,,,,,,,,"R","R",
 "herpe701","Herpick","Emilie","Emilie",,,"Michigan","USA",,,,,,,"08/12/2026",,,,
@@ -96,7 +96,7 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "murpk201","Murphy","Katherine","Katherine","10/16/2006","Belmont","Massachusetts","USA","08/01/2026",,,,,,,,"R","R",
 "naras201","Narasaki","Suzu","Suzu","05/17/1999","Hannan","Osaka","Japan","08/12/2026",,,,,,,,"R","R","5-02"
 "obitr201","Obitsu","Rio","Rio","05/11/2002","Saitama","Saitama","Japan",,,,,,,,,"R","R",
-"oneim201","O'Neill","Mary Grace","Mary Grace",,"Pleasantville","New York","USA",,,,,,,,,"L","L","5-04"
+"oneim201","O'Neill","Mary Grace","Mary Grace","09/18/2003","Pleasantville","New York","USA",,,,,,,,,"L","L","5-04"
 "osulc201","O'Sullivan","Claire Lesley","Claire","02/13/1995","Maroubra","New South Wales","Australia","08/09/2026",,,,,,,,"R","R","5-08"
 "osule201","O'Sullivan","Elodie Nona","Elodie","07/29/1993","Perth","Western Australia","Australia",,,,,,,,,"R","R",
 "paddm201","Paddison","Molly Cate","Molly","10/05/2007","Pullenvale","Queensland","Australia","08/02/2026",,,,,,,,"L","L","5-09"
@@ -131,7 +131,7 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "wilkc201","Wilken","Celicia","Celicia","01/19/1992","Austin","Texas","USA",,,,,,,,,"L","L",
 "willm003","Williams","Matthew Derrick","Matt","11/28/1965","Bishop","California","USA",,,"07/26/2026",,,,,,"R","R","6-02"
 "willm201","Willan","Madison Grace","Madison","02/07/2001","Edmonton","Alberta","Canada","08/01/2026",,,,,,,,"R","R","5-02"
-"wilst001","Wilson","Michael","Tack","05/16/1956","Shreveport","Louisiana","USA",,,,,"08/22/2026",,,,,"R","R","5-10"
+"wilst001","Wilson","Michael","Tack","05/16/1956","Shreveport","Louisiana","USA",,,,,"08/22/2026",,,,"R","R","5-10"
 "womab201","Womack","Britanny","Brittany","07/22/1988","San Diego","California","USA",,,,,,,,,"L","R",
 "yamaa201","Yamamoto","Ayaka","Ayaka","06/22/2004","Fukuyama","Hiroshima","Japan","08/14/2026",,,,,,,,"R","R",
 "yamas201","Yamamoto","Suzuka","Suzuka","07/03/1999","Takarazuka","Hyogo","Japan","08/13/2026",,,,,,,,"L","R","5-00"
