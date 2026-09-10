@@ -1,0 +1,148 @@
+id,SFF202609090
+info,visteam,BSH
+info,hometeam,SFF
+info,site,SPR03
+info,date,2026/09/09
+info,number,0
+info,gametype,semifinal
+info,starttime,6:00PM
+info,daynight,night
+info,innings,7
+info,umphome,dinek701
+info,ump1b,mckej701
+info,ump2b,(none)
+info,ump3b,hartk701
+info,umplf,(none)
+info,umprf,(none)
+info,temp,75
+info,winddir,torf
+info,fieldcond,dry
+info,precip,none
+info,sky,overcast
+info,timeofgame,140
+info,wp,whitk201
+info,lp,blunk201
+info,save,gildl201
+start,hastl201,"Lexi Hastings",0,1,8
+start,haasg201,"Gabrielle Haas",0,2,5
+start,schra201,"Alli Schroder",0,3,3
+start,bryad201,"Denver Bryant",0,4,10
+start,paddm201,"Molly Paddison",0,5,9
+start,geldt201,"Ticara Geldenhuis",0,6,7
+start,greeb201,"Beth Greenwood",0,7,2
+start,yamas201,"Suzuka Yamamoto",0,8,4
+start,padgr201,"Raine Padgham",0,9,8
+start,blunk201,"Kate Blunt",0,0,1
+start,giana201,"Amanda Gianelloni",1,1,4
+start,whitk201,"Kelsie Whitmore",1,2,1
+start,kapls201,"Skylar Kaplan",1,3,9
+start,lebla201,"Andreanne Leblanc",1,4,3
+start,jorga201,"Alexia Jorge",1,5,2
+start,leguj201,"Joely Leguizamon",1,6,6
+start,parkj201,"Jua Park",1,7,7
+start,yamaa201,"Ayaka Yamamoto",1,8,5
+start,daybe201,"Ela Day-Bedard",1,9,8
+play,1,0,hastl201,11,BFX,7/F
+play,1,0,haasg201,10,BX,63/G
+play,1,0,schra201,10,BX,8/F
+play,1,1,giana201,12,FCBX,6/L
+play,1,1,whitk201,00,X,53/G
+play,1,1,kapls201,00,X,43/G
+play,2,0,bryad201,32,CBBBFX,53/G
+play,2,0,paddm201,30,BBBB,W
+play,2,0,geldt201,02,CCX,D8/F.1-3
+com,"$2B tripped on the batter while looking to receive the throw"
+play,2,0,greeb201,10,BX,8/F/SF.3-H(RBI)
+play,2,0,yamas201,02,SSX,9/F
+play,2,1,lebla201,31,CBBBB,W
+play,2,1,jorga201,10,BH,HP.1-2
+play,2,1,leguj201,01,FX,64(1)3/GDP/G
+play,2,1,parkj201,11,BCX,8/F
+play,3,0,padgr201,21,SBBX,4/P
+play,3,0,hastl201,10,BX,8/F
+com,"$Excellent over-the-shoulder catch"
+play,3,0,haasg201,12,CCBX,4/L
+com,"$Stellar catch by the tumbling Gianelloni"
+play,3,1,yamaa201,31,BBBCX,S4/P
+com,"$Yamamoto made a great diving effort and gloved the ball on a dive, but it was knocked loose when she hit the ground"
+play,3,1,daybe201,00,X,64(1)/FO/G
+play,3,1,giana201,00,>C,SB2
+play,3,1,giana201,22,>C.BFBX,S9/F.2-3
+com,"$Off the wall"
+play,3,1,whitk201,30,VVVV,I.1-2
+play,3,1,kapls201,10,BX,S8/L.3-H(RBI);2-3;1-2
+play,3,1,lebla201,11,BCX,8/F/SF.3-H(RBI);2-3
+com,"$Good catch on the long run"
+play,3,1,jorga201,31,BBBCB,W.1-2
+play,3,1,leguj201,00,X,63/L
+com,"$Soft liner on the check swing"
+play,4,0,schra201,10,BX,S8/F
+com,"$To the wall"
+play,4,0,bryad201,32,1FFBB+1FBX,S7/L.1-2
+play,4,0,paddm201,11,BSB,PB.2-3;1-2
+play,4,0,paddm201,32,BSB.SBT,K
+play,4,0,geldt201,10,BX,3/P
+play,4,0,greeb201,01,FX,D8/L.3-H(RBI);2-H(RBI)(UR)
+com,"$Ball got past the diving CF, Greenwood evaded the tag attempt"
+play,4,0,yamas201,31,BBBCB,W
+play,4,0,padgr201,22,SFBBX,43/G
+play,4,1,parkj201,22,FBCFBC,K/C
+play,4,1,yamaa201,11,BCX,3/L
+play,4,1,daybe201,01,CX,53/G
+play,5,0,hastl201,01,FX,S9/F
+play,5,0,haasg201,32,B1LBBFX,S7/G.1-2
+play,5,0,schra201,12,BFFFFFFX,1/P/FL
+play,5,0,bryad201,01,CX,46(1)/FO/G.2-3
+play,5,0,paddm201,10,B>S,SB2
+play,5,0,paddm201,22,B>S.FBS,K
+play,5,1,giana201,00,F,FLE2
+play,5,1,giana201,31,FBBBX,63/G
+play,5,1,whitk201,31,BSBBX,S7/F
+play,5,1,kapls201,10,BX,D9/L.1-3
+play,5,1,lebla201,20,BBX,63/G.3-H(RBI);2-3
+play,5,1,jorga201,32,CFBBFBFX,D7/F.3-H(RBI)
+com,"$At the wall"
+play,5,1,leguj201,22,CBBFX,8/F
+play,6,0,geldt201,00,,NP
+sub,delcr201,"Rosi Del Castillo",1,8,1
+play,6,0,geldt201,00,.,NP
+sub,parkj201,"Jua Park",1,7,5
+play,6,0,geldt201,00,..,NP
+sub,daybe201,"Ela Day-Bedard",1,9,7
+play,6,0,geldt201,00,...,NP
+sub,whitk201,"Kelsie Whitmore",1,2,8
+play,6,0,geldt201,32,....BBCFBFFFB,W
+play,6,0,greeb201,20,BB>C,SB2
+play,6,0,greeb201,32,BB>C.BFS,K
+play,6,0,yamas201,20,BBX,43/G.2-3
+play,6,0,padgr201,22,CBBCFX,4/P
+com,"$Foul ball was right on the line, call was controversial as the tying run would have scored if the ball were fair"
+com,"$Ball was also almost caught by Gianelloni who took a tumble and dropped it on colliding with the ground"
+play,6,1,parkj201,00,,NP
+sub,brico201,"Olivia Bricker",0,0,1
+play,6,1,parkj201,10,.BX,DGR8/F
+com,"$Over the CF fence"
+play,6,1,delcr201,00,X,S9/G.2-3
+play,6,1,daybe201,31,BSBBX,7/F/SF.3-H(RBI)
+play,6,1,giana201,32,BBTFBX,9/L
+play,6,1,whitk201,30,VVVV,W.1-2
+play,6,1,kapls201,32,BFBFBX,S9/G.2-H(RBI);1-3
+play,6,1,lebla201,30,BBBB,W.1-2
+play,6,1,jorga201,22,BFSFBX,8/F
+play,7,0,hastl201,02,FCH,HP
+play,7,0,haasg201,30,BBBB,W.1-2
+play,7,0,schra201,02,SFX,9/L
+com,"$Caught by a hopping Kaplan"
+play,7,0,bryad201,30,BB2BB,W
+play,7,0,paddm201,00,,NP
+sub,gildl201,"Liz Gilder",1,8,1
+play,7,0,paddm201,12,.SBSFS,K
+play,7,0,geldt201,10,BX,S5/G.3-H(RBI);2-3;1-2
+com,"$Ball took a very large hop and deflected off of the 3B's glove to the SS behind her"
+com,"$Long throw was not in time"
+play,7,0,greeb201,10,BX,63/G
+data,er,blunk201,4
+data,er,brico201,2
+data,er,whitk201,2
+data,er,delcr201,1
+data,er,gildl201,0
