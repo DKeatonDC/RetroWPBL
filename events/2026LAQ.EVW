@@ -203,8 +203,9 @@ play,1,0,giana201,00,X,53/G
 play,1,0,whitk201,00,X,53/G
 play,1,0,albaj201,02,CFFX,43/G
 play,1,1,davim201,11,CBX,53/G
-play,1,1,eynoc201,01,FX,E5/G
-com,"$Bobbled ball"
+play,1,1,eynoc201,01,FX,S5/G
+com,"$Slow grounder, bobbled but it likely would have been close"
+com,"Initially ruled an error"
 play,1,1,lansa201,21,BB1CB,WP.1-2
 play,1,1,lansa201,31,BB1CB.B,W
 play,1,1,foxxm201,01,CX,5(2)3/GDP/G
@@ -398,8 +399,9 @@ play,4,1,shima201,31,FBBBB,W
 play,4,1,eynoc201,00,X,S7/L.1-2
 play,4,1,edwas201,22,CBBCS,K
 play,4,1,benis201,02,FCFS,K
-play,4,1,davim201,00,X,S7/L.2-H(RBI)(UR);1-3;B-2(E7)
-com,"$LF overshot the ball, allowing extra advance"
+play,4,1,davim201,00,X,D7/L.2-H(RBI)(UR);1-3
+com,"$LF overshot the ball"
+com,"Initially ruled single plus error"
 play,4,1,honda201,02,CFFX,7/F
 play,5,0,giana201,01,CX,S6/G
 com,"$Great stop by Benitez, but Gianelloni was too far down along the line for any play"
@@ -515,8 +517,9 @@ start,edwas201,"Sarah Edwards",1,8,10
 start,apgab201,"Britt Apgar",1,9,8
 start,satoa201,"Ayami Sato",1,0,1
 play,1,0,yonen201,32,BCFFBBS,K
-play,1,0,benid201,01,SX,S5/G.B-2(E5/TH1)
-com,"$The low bouncing throw deflected off of the 1B's glove"
+play,1,0,benid201,01,SX,E5/G.B-2(E5/TH1)
+com,"$3B juggled the ball on the fielding attempt, then the low bouncing throw deflected off of the 1B's glove"
+com,"Initially ruled a single"
 play,1,0,osulc201,11,BC2X,43/G.2-3
 play,1,0,studl201,01,CX,5/L
 play,1,1,villi201,11,BCX,53/G
@@ -603,7 +606,7 @@ com,"$Frank was ruled to have interfered with Benites's pickoff attempt by stepp
 play,5,1,maxit201,21,FBBX,9/F
 play,6,0,ciame201,00,,NP
 sub,meidm201,"Meggie Meidlinger",1,0,1
-play,6,0,ciame201,22,SCBBC,K/C
+play,6,0,ciame201,22,.SCBBC,K/C
 play,6,0,saike201,31,BBBCB,W
 play,6,0,ecclc201,11,B1CX,7/F
 play,6,0,yonen201,32,BFB+1FBFC,K/C
@@ -629,8 +632,7 @@ play,7,1,eynoc201,32,CSBBBS,K
 play,7,1,lansa201,22,BCSBC,K/C
 play,7,1,mackj201,00,X,63/G
 radj,ecclc201,2
-play,8,0,yonen201,00,X,13/BG.2-3
-com,"Personally think this should have been ruled a sac hit"
+play,8,0,yonen201,00,X,13/BG/SH.2-3
 play,8,0,benid201,30,VVVV,I
 play,8,0,osulc201,00,>B,SB2
 play,8,0,osulc201,21,>B.BCX,S7/G.3-H(RBI)(UR);2-3
@@ -713,7 +715,7 @@ play,1,1,lansa201,01,CH,HP.1-2
 play,1,1,mackj201,10,BX,64(1)/FO/G.2-3
 play,1,1,shima201,22,B1SBF>S,K+SB2
 com,"$Strike 3 fell out of catcher's glove"
-play,1,1,eynoc201,01,CX,S6/G.3-H(RBI);2-H(RBI)
+play,1,1,eynoc201,01,CX,S6/G.3-H(RBI);2-H(RBI)(E6/TH1)
 com,"$Past the diving 3B, long throw by SS"
 com,"$Low bouncer forced 1B to backpedal onto the base, where she collided with Eynon"
 play,1,1,edwas201,31,BBF1BB,W.1-2
@@ -747,9 +749,9 @@ play,3,1,foxxm201,30,BBBB,W
 play,3,1,villi201,01,FX,S7/L.1-2
 play,3,1,ibard201,31,BCBBX,6/P/IF
 play,3,1,benis201,00,X,S8/G.2-H(RBI);1-2
-play,3,1,lansa201,22,BBFFC,K/C
+play,3,1,lansa201,21,BBFF,FLE3
 com,"$First foul ball fell between pitcher and 1B down the first base line"
-com,"$Second foul ball fell out of 1B's glove"
+play,3,1,lansa201,22,BBFFC,K/C
 play,4,0,paddm201,00,X,4/F
 play,4,0,bryad201,12,FBCC,K/C
 play,4,0,geldt201,11,BCX,7/F
@@ -796,7 +798,7 @@ play,6,1,shima201,12,CFBB,WP.3-H(NR);2-3;1-2
 play,6,1,shima201,32,CFBB.FFFFBFC,K/C
 play,6,1,eynoc201,12,CCBFC,K/C
 play,6,1,edwas201,02,CCFX,S9/L.3-H(RBI);2-3
-play,6,1,foxxm201,12,FCFBB,WP.3-H(NR);1-3
+play,6,1,foxxm201,12,FCFBB,WP.3-H(NR);1-3(E2/THH)
 com,"$Throw by the catcher got away from the pitcher, allowing for the runner from 1st to advance an extra base"
 play,6,1,foxxm201,32,FCFBB.BB,W
 play,6,1,villi201,02,FCC,K/C
@@ -899,8 +901,8 @@ play,3,0,lahnk201,10,B>B,SB2
 play,3,0,lahnk201,20,B>B.H,HP
 play,3,0,perev201,00,X,9/F/SF.3-H(RBI);2X3(935)
 play,3,0,izumk201,10,BX,S7/G.1-2
+play,3,0,willm201,12,CBCF,FLE2
 play,3,0,willm201,12,CBCFX,43/G
-com,"$Foul ball was almost caught by catcher"
 play,3,1,eynoc201,01,CX,S5/L
 com,"$Liner stopped by Izumi but too fast to be gloved"
 play,3,1,honda201,12,1F1BC+1X,46(1)/FO/G
@@ -951,7 +953,8 @@ sub,murpk201,"Katherine Murphy",0,5,7
 play,6,1,shima201,30,..BBBB,W
 play,6,1,lansa201,00,B,PB.1-2
 play,6,1,lansa201,32,B.BCB+2FFFB,W
-play,6,1,mackj201,00,X,S8/F.2-H(RBI)(UR);1X3(8125)
+play,6,1,mackj201,00,X,S8/F.2-H(E8)(UR);1X3(8125)
+com,"$CF fumbled picking up the ball"
 play,6,1,edwas201,00,H,HP.1-2
 play,6,1,eynoc201,31,BCB+2BB,W.2-3;1-2
 play,6,1,honda201,30,BBBB,W.3-H(RBI)(UR);2-3;1-2
