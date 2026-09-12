@@ -1,0 +1,169 @@
+id,NYH202609100
+info,visteam,LAQ
+info,hometeam,NYH
+info,site,SPR03
+info,date,2026/09/10
+info,number,0
+info,gametype,semifinal
+info,starttime,7:30PM
+info,daynight,night
+info,innings,7
+info,umphome,hartk701
+info,ump1b,dinek701
+info,ump2b,(none)
+info,ump3b,mckej701
+info,umplf,(none)
+info,umprf,(none)
+info,temp,72
+info,winddir,unknown
+info,fieldcond,wet
+info,precip,none
+info,sky,overcast
+info,timeofgame,168
+info,wp,rochm201
+info,lp,saike201
+info,save,meidm201
+start,benis201,"Samaria Benitez",0,1,4
+start,shima201,"Ayuri Shimano",0,2,6
+start,lansa201,"Ashton Lansdell",0,3,5
+start,mackj201,"Jamie Mackay",0,4,2
+start,edwas201,"Sarah Edwards",0,5,3
+start,eynoc201,"Caitlin Eynon",0,6,10
+start,villi201,"Isabel Villarreal",0,7,7
+start,honda201,"Amira Hondras",0,8,9
+start,davim201,"Mo'ne Davis",0,9,8
+start,rochm201,"Michelle Roche",0,0,1
+start,yonen201,"Natsuki Yonetani",1,1,9
+start,benid201,"Denae Benites",1,2,2
+start,osulc201,"Claire O'Sullivan",1,3,3
+start,lahnk201,"Kylee Lahners",1,4,10
+start,perev201,"Valerie Perez",1,5,6
+start,naras201,"Suzu Narasaki",1,6,7
+start,willm201,"Madison Willan",1,7,4
+start,zetta201,"Alyssa Zettlemoyer",1,8,5
+start,ecclc201,"Claire Eccles",1,9,8
+start,saike201,"Emi Saiki",1,0,1
+com,"$Game delayed from initial planned 6:00 PM start due to rain"
+play,1,0,benis201,11,CBX,53/G
+com,"$On the tag application"
+play,1,0,shima201,00,X,43/G
+play,1,0,lansa201,10,BX,HR/F89D
+play,1,0,mackj201,00,X,53/G
+com,"$On an excellent diving stop and long throw by Zettlemoyer"
+play,1,1,yonen201,00,H,HP
+play,1,1,benid201,01,CX,7/F
+com,"$Shortstop and LF almost collided, but LF secured the ball"
+play,1,1,osulc201,11,CB1>B,SB2
+com,"$Ball got away from the catcher, the throw down to 2nd hit Yonetani on the shoulder and helmet"
+play,1,1,osulc201,31,CB1>B.BB,W
+play,1,1,lahnk201,22,BBCCX,5(2)/FO/G
+com,"$Lansdell initially went for the bag, but decided to tag Yonetani instead"
+play,1,1,perev201,12,FBCFX,4/P
+play,2,0,edwas201,32,BCBFBC,K/C
+play,2,0,eynoc201,21,BFBX,S7/G
+com,"$Deflected off the diving SS"
+play,2,0,villi201,10,BX,S7/G.1-2
+com,"$Down the LF line"
+play,2,0,honda201,32,BBBCSX,6(1)3/GDP/G
+play,2,1,naras201,12,CBFS,K
+play,2,1,willm201,01,CX,5/P/FL
+play,2,1,zetta201,00,X,S8/L
+play,2,1,ecclc201,00,X,5/P
+play,3,0,davim201,12,BCFFC,K/C
+play,3,0,benis201,32,CCFBBBH,HP
+play,3,0,shima201,32,BBFCBFB,W.1-2
+play,3,0,lansa201,00,X,14(1)/FO/L.2-3
+com,"$Hard hit ball knocked down by Saiki, she had some trouble picking it back up but got the out"
+play,3,0,mackj201,11,1BCX,8/F
+play,3,1,yonen201,10,BX,S9/L
+play,3,1,benid201,00,H,HP.1-2
+play,3,1,osulc201,12,BCCFX,64(1)/FO/G.2-3
+play,3,1,lahnk201,10,B>B,CS2(24)
+play,3,1,lahnk201,22,B>B.CCFFX,4/P
+play,4,0,edwas201,12,BCSX,8/F
+play,4,0,eynoc201,02,CCFFFX,S7/G
+play,4,0,villi201,00,X,S7/F.1-2
+play,4,0,honda201,32,BBFFBX,S8/L.2-3;1-2
+play,4,0,davim201,00,X,4/P/IF
+play,4,0,benis201,22,CFBBFFFFX,S8/G.3-H(RBI);2-H(RBI);1-2
+play,4,0,shima201,20,BB+2,CS3(265)
+com,"$Hondras was caught too far off base and was in a rundown"
+play,4,1,perev201,20,BBX,63/G
+com,"$Excellent diving stop"
+com,"$Slight delay as Hondras was checked out for a foreign object in her eye"
+play,4,1,naras201,01,CX,5/P
+play,4,1,willm201,11,CBX,63/G
+com,"$On the tag application"
+play,5,0,shima201,22,LCBFBX,43/G
+play,5,0,lansa201,32,BBFFBFX,D7/G
+com,"$Yonetani almost caught the first foul ball on the very long run"
+com,"$Down the LF line into the corner"
+play,5,0,mackj201,00,X,D8/L.2-H(RBI)
+play,5,0,edwas201,00,,NP
+sub,studl201,"London Studer",1,0,1
+play,5,0,edwas201,12,.BCCFX,9/F/SF.2-3
+com,"Sac fly awarded although no runners scored"
+play,5,0,eynoc201,32,BBCFBB,W
+play,5,0,villi201,32,BBBCFS,K
+play,5,1,zetta201,01,FX,53/G
+play,5,1,ecclc201,02,CFX,31/G
+com,"$Roche just barely won the footrace"
+play,5,1,yonen201,00,X,S8/L
+play,5,1,benid201,01,F1B,WP.1-2
+play,5,1,benid201,22,F1B.BSX,S8/L.2-H(RBI)
+play,5,1,osulc201,01,1CX,E5/P.1-3
+com,"$3B ranged back a bit too far and the ball fell in front of her"
+com,"$Turtleback field may have caused trouble in fielding"
+play,5,1,lahnk201,32,BBBCCFS,K
+play,6,0,honda201,00,,NP
+sub,izumk201,"Keira Izumi",1,6,7
+play,6,0,honda201,30,.BBBB,W
+play,6,0,davim201,00,X,E1/TH2/BG.1-2
+com,"$Throw to second was off and hit Hondras"
+play,6,0,benis201,10,BX,S8/G.2-H(RBI)(UR);1-3
+play,6,0,shima201,12,1BCC>B,CS2(26)
+play,6,0,shima201,22,1BCC>B.X,63/G.3-H(RBI)
+play,6,0,lansa201,00,X,8/F
+play,6,1,perev201,00,,NP
+sub,villi201,"Isabel Villarreal",0,7,1
+play,6,1,perev201,00,.,NP
+sub,ibard201,"Diana Ibarra",0,6,7
+play,6,1,perev201,31,..BBBCB,W
+play,6,1,izumk201,32,BBCFBFX,S8/G.1-2
+play,6,1,willm201,11,CBB,WP.2-3;1-2
+play,6,1,willm201,31,CBB.BB,W
+play,6,1,zetta201,00,,NP
+sub,meidm201,"Meggie Meidlinger",0,7,1
+play,6,1,zetta201,12,SBCFX,1(B)3(1)/LDP/L
+play,6,1,ecclc201,01,CX,8/F
+play,7,0,mackj201,02,FCFX,8/F
+play,7,0,edwas201,11,BFH,HP
+play,7,0,ibard201,32,BCBSBB,W.1-2
+play,7,0,meidm201,31,BFBBX,S7/P.2-3;1-2
+com,"$LF, 3B, and SS all converged but no one could catch it"
+play,7,0,honda201,10,BB,WP.3-H(NR);2-3;1-2
+play,7,0,honda201,31,BB.FBB,W
+play,7,0,davim201,00,,NP
+sub,izumk201,"Keira Izumi",1,6,1
+play,7,0,davim201,00,.,NP
+sub,studl201,"London Studer",1,4,7
+play,7,0,davim201,30,..BBBB,W.3-H(RBI);2-3;1-2
+play,7,0,benis201,01,CX,53/G.3-H(RBI);2-3;1-2
+play,7,0,shima201,32,BFBBFB,W
+com,"$Second foul ball hit the catcher square in the mask"
+play,7,0,lansa201,32,FCBBBB,W.3-H(RBI);2-3;1-2
+play,7,0,mackj201,11,BFX,9/L
+play,7,1,yonen201,32,CSBFFFFBBX,DGR7/F
+play,7,1,benid201,21,BBCX,S6/L.2-3
+com,"$SS was not able to make what would be an over-the-shoulder catch"
+play,7,1,osulc201,00,1X,E6/G.3-H(RBI);1-2
+com,"$High bouncer, potential DP ball but SS bobbled the catch"
+play,7,1,studl201,10,BX,S7/L.2-H(RBI);1-2
+play,7,1,perev201,00,X,46(1)3/GDP
+play,7,1,izumk201,02,CFX,8/F
+data,er,rochm201,1
+data,er,villi201,0
+data,er,meidm201,2
+data,er,saike201,4
+data,er,studl201,5
+data,er,izumk201,0
