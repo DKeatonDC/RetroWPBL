@@ -146,3 +146,159 @@ data,er,brico201,2
 data,er,whitk201,2
 data,er,delcr201,1
 data,er,gildl201,0
+id,BSH202609110
+info,visteam,SFF
+info,hometeam,BSH
+info,site,SPR03
+info,date,2026/09/11
+info,number,0
+info,gametype,semifinal
+info,starttime,5:00PM
+info,daynight,night
+info,innings,7
+info,umphome,monaa701
+info,ump1b,hartk701
+info,ump2b,(none)
+info,ump3b,mckej701
+info,umplf,(none)
+info,umprf,(none)
+info,temp,83
+info,winddir,rtol
+info,fieldcond,dry
+info,precip,none
+info,sky,overcast
+info,timeofgame,135
+info,wp,albaj201
+info,lp,benap201
+info,save,(none)
+start,giana201,"Amanda Gianelloni",0,1,4
+start,whitk201,"Kelsie Whitmore",0,2,8
+start,kapls201,"Skylar Kaplan",0,3,9
+start,lebla201,"Andreanne Leblanc",0,4,3
+start,jorga201,"Alexia Jorge",0,5,2
+start,leguj201,"Joely Leguizamon",0,6,6
+start,parkj201,"Jua Park",0,7,7
+start,delcr201,"Rosi Del Castillo",0,8,10
+start,yamaa201,"Ayaka Yamamoto",0,9,5
+start,albaj201,"Jill Albayati",0,0,1
+start,hastl201,"Lexi Hastings",1,1,8
+start,haasg201,"Gabrielle Haas",1,2,9
+start,schra201,"Alli Schroder",1,3,3
+start,bryad201,"Denver Bryant",1,4,5
+start,geldt201,"Ticara Geldenhuis",1,5,7
+start,greeb201,"Beth Greenwood",1,6,2
+start,delee201,"Edith De Leija",1,7,10
+start,yamas201,"Suzuka Yamamoto",1,8,4
+start,padgr201,"Raine Padgham",1,9,6
+start,benap201,"Paloma Benach",1,0,1
+play,1,0,giana201,01,FX,S9/F
+play,1,0,whitk201,21,FBBX,8/F
+play,1,0,kapls201,10,BX,3/P
+play,1,0,lebla201,01,CX,S8/G.1-2
+play,1,0,jorga201,31,BBBFB,W.2-3;1-2
+play,1,0,leguj201,00,X,S6/G.3-H(RBI);2-3;1-2
+com,"$Very long throw, not in time"
+play,1,0,parkj201,12,BFFC,K/C
+play,1,1,hastl201,00,X,43/G
+play,1,1,haasg201,11,CBX,6/P
+play,1,1,schra201,12,FBFFX,53/G
+play,2,0,delcr201,02,CFX,3/G
+play,2,0,yamaa201,11,CBX,4/L
+play,2,0,giana201,31,BCBBX,D7/L
+play,2,0,whitk201,30,VVVV,I
+play,2,0,kapls201,10,BX,HR/F8D.2-H(NR);1-H(NR)
+play,2,0,lebla201,11,BCX,8/F
+play,2,1,bryad201,32,BBFBCS,K
+play,2,1,geldt201,32,BSFFBBB,W
+play,2,1,greeb201,01,CX,FC6/G.1-3(E6/TH2)
+com,"$SS juggled the ball, then made a low throw"
+play,2,1,delee201,01,CX,S7/G.3-H(RBI)(UR);1-2
+play,2,1,yamas201,11,CBX,6(1)3/GDP/G
+com,"$Yamamoto out on the tag application by the 1B"
+play,3,0,jorga201,10,BX,HR/F7D
+play,3,0,leguj201,00,,NP
+sub,schig201,"Gigi Schiano",1,0,1
+play,3,0,leguj201,32,.BCCFBFFBFB,W
+play,3,0,parkj201,02,C1FX,E5/G.1-2
+com,"$Fumbled catch with ball getting past 3B"
+play,3,0,delcr201,12,FBCFFX,36(1)/FO/G.2-3
+play,3,0,yamaa201,01,CX,64(1)/FO/G.3-H(RBI)(UR)
+com,"$Great sliding stop on the grounder by Padgham"
+play,3,0,giana201,00,X,8/F
+play,3,1,padgr201,32,BCFBBB,W
+play,3,1,hastl201,00,X,16(1)/FO/BG
+play,3,1,haasg201,02,1CF1>B,SB2
+play,3,1,haasg201,12,1CF1>B.F2X,S8/F.2-3
+com,"$Ball fell just in front of Whitmore"
+play,3,1,schra201,02,CSX,8/F/SF.3-H(RBI)
+play,3,1,bryad201,00,X,S8/L.1-3
+com,"$Ball took a strange hop away from Whitmore whose momentum carried her in the wrong direction"
+play,3,1,geldt201,01,CX,S9/L.3-H(RBI);1-3
+play,3,1,greeb201,30,BBBH,HP.1-2
+play,3,1,delee201,00,,NP
+sub,ecken201,"Niki Eckert",0,0,1
+play,3,1,delee201,10,.BX,S7/L.3-H(RBI);2-3;1-2
+play,3,1,yamas201,32,BBCBFS,K
+com,"$Foul ball hit umpire squarely on the mask, she was okay"
+play,4,0,whitk201,20,BBX,HR/F78D
+play,4,0,kapls201,01,CX,43/G
+play,4,0,lebla201,11,BCX,S7/F
+play,4,0,jorga201,32,BBBCFX,S8/G.1-2
+play,4,0,leguj201,00,X,13/G.2-3;1-2
+play,4,0,parkj201,00,X,D7/F.3-H(RBI);2-H(RBI)
+com,"$Right down the LF line"
+play,4,0,delcr201,00,X,3/L
+play,4,1,padgr201,12,CBSC,K/C
+play,4,1,hastl201,32,FBBCFBFX,8/F
+play,4,1,haasg201,32,BBBCFFX,8/F
+play,5,0,yamaa201,01,CX,9/F
+play,5,0,giana201,00,X,6/P
+play,5,0,whitk201,31,BFBBB,W
+play,5,0,kapls201,00,X,4/L
+com,"$Great catch as the 2B slid to her knee"
+play,5,1,schra201,00,X,S8/F
+com,"$Off the bottom of the wall"
+play,5,1,bryad201,21,BBFB,WP.1-2
+play,5,1,bryad201,32,BBFB.FB,W
+play,5,1,geldt201,11,BCX,9/L
+com,"$Great catch by a diving Kaplan"
+play,5,1,greeb201,32,BBCBSB,W.2-3;1-2
+com,"$Ball very nearly hit Greenwood on her back foot"
+play,5,1,delee201,00,B,WP.3-H(NR);2-3;1-2
+play,5,1,delee201,31,B.FBBB,W
+play,5,1,yamas201,02,SSX,8/L
+com,"$Great sliding catch by Whitmore"
+play,5,1,delee201,12,CBCS,K
+play,6,0,lebla201,20,BBX,S9/L
+play,6,0,jorga201,22,FCBFBX,7/L
+play,6,0,leguj201,20,BBX,7(B)3(1)/LDP
+com,"$Great basket catch followed by an amazing throw and tag of first base to get the runner out"
+play,6,1,hastl201,00,,NP
+sub,gildl201,"Liz Gilder",0,0,1
+play,6,1,hastl201,01,.FX,S9/L
+play,6,1,haasg201,02,CCX,53/G.1-2
+com,"$On the long throw by Yamamoto"
+play,6,1,schra201,00,X,S7/G.2-H(RBI);BX2(7524)
+com,"$Fast grounder took a hop away from the 3B, the relay couldn't nab the runner from 2nd but it could get the batter"
+play,6,1,bryad201,10,BX,53/G
+play,7,0,parkj201,00,,NP
+sub,dumam201,"Maika Dumais",1,0,1
+play,7,0,parkj201,12,.BFCX,53/G
+play,7,0,delcr201,10,BX,E3/TH1/G
+com,"$1B threw behind the pitcher"
+play,7,0,yamaa201,10,BB,WP.1-2
+play,7,0,yamaa201,22,BB.SCX,9/L
+play,7,0,giana201,21,BCBH,HP
+play,7,0,whitk201,02,CSS,K
+play,7,1,geldt201,11,BCX,S6/G
+com,"$Slow roller, Geldenhuis dove head-first"
+play,7,1,greeb201,20,BBX,54(1)3/GDP/G
+play,7,1,delee201,22,BBFCFFX,43/L ? may be BBFCFSFX
+com,"$Last foul ball was tipped but not held onto"
+com,"$Soft liner bounced directly in front of 2B who handled it to sweep the semifinals for the Firebells"
+data,er,albaj201,2
+data,er,ecken201,2
+data,er,gildl201,1
+data,er,benap201,5
+data,er,schig201,3
+data,er,dumam201,0

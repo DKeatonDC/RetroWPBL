@@ -29,7 +29,7 @@ start,lansa201,"Ashton Lansdell",0,3,5
 start,mackj201,"Jamie Mackay",0,4,2
 start,edwas201,"Sarah Edwards",0,5,3
 start,eynoc201,"Caitlin Eynon",0,6,10
-start,villi201,"Isabel Villarreal",0,7,7
+start,villi201,"Isabella Villarreal",0,7,7
 start,honda201,"Amira Hondras",0,8,9
 start,davim201,"Mo'ne Davis",0,9,8
 start,rochm201,"Michelle Roche",0,0,1
@@ -125,7 +125,7 @@ play,6,0,shima201,12,1BCC>B,CS2(26)
 play,6,0,shima201,22,1BCC>B.X,63/G.3-H(RBI)
 play,6,0,lansa201,00,X,8/F
 play,6,1,perev201,00,,NP
-sub,villi201,"Isabel Villarreal",0,7,1
+sub,villi201,"Isabella Villarreal",0,7,1
 play,6,1,perev201,00,.,NP
 sub,ibard201,"Diana Ibarra",0,6,7
 play,6,1,perev201,31,..BBBCB,W
@@ -138,6 +138,7 @@ play,6,1,zetta201,12,SBCFX,1(B)3(1)/LDP/L
 play,6,1,ecclc201,01,CX,8/F
 play,7,0,mackj201,02,FCFX,8/F
 play,7,0,edwas201,11,BFH,HP
+com,"$May have been intentional?"
 play,7,0,ibard201,32,BCBSBB,W.1-2
 play,7,0,meidm201,31,BFBBX,S7/P.2-3;1-2
 com,"$LF, 3B, and SS all converged but no one could catch it"
