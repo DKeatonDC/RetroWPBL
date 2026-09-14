@@ -87,7 +87,7 @@ play,3,1,gutis201,10,BX,6(1)3/GDP/G
 play,3,1,albaj201,11,BCX,D8/L
 play,3,1,lebla201,31,BBCBX,63/G
 play,4,0,perev201,32,BBBCCX,S7/L
-play,4,0,yonen201,32,BBCBFX,S8/L.1-H(E8)(NR)(UR);B-2
+play,4,0,yonen201,32,BBCBFX,S8/L.1-H(E8)(NR);B-2
 com,"$Ball snuck under CF's glove"
 play,4,0,benid201,00,X,S8/L.2-H(RBI)
 play,4,0,lahnk201,22,BBFC>B,SB2
@@ -111,7 +111,7 @@ play,4,1,kapls201,22,CBCFBX,6/L
 com,"$Excellent leaping catch, ball dislodged after fall but catch confirmed"
 play,4,1,leguj201,02,SCH,HP.2-3;1-2
 com,"$Hit in the helmet, stayed in the game"
-play,4,1,parkj201,21,BBCX,FC4/G.3-H(RBI)(UR);2-3;1-2(E4);B-1
+play,4,1,parkj201,21,BBCX,FC4/G.3-H(RBI);2-3;1-2(E4);B-1
 com,"$2B fumbled but SS also failed to get her foot on the bag preventing forceout"
 play,4,1,giana201,12,CBCX,23/G.3-H(RBI)(UR);2-3;1-2
 play,4,1,gutis201,12,BCFFFFX,63/G
@@ -172,11 +172,11 @@ play,7,0,zetta201,32,CBCB1.BX,7/F
 play,7,1,kapls201,00,X,6/P
 play,7,1,leguj201,12,CFBX,63/G
 play,7,1,parkj201,32,BFCBBX,8/F
-data,er,lee-j201,0
+data,er,lee-j201,1
 data,er,studl201,5
 data,er,izumk201,0
 data,er,gildl201,2
-data,er,parkj201,3
+data,er,parkj201,4
 data,er,daybe201,6
 data,er,lebla201,0
 id,SFF202608080
@@ -272,17 +272,17 @@ play,4,1,parkj201,32,SBBSFBB,W
 play,4,1,gutis201,00,11X,54(1)/FO/G.B-2(E4/TH1)
 com,"$Throw bounced close to 1B, went wide"
 play,4,1,eystj201,21,BF2BX,S8/L.2-3
-play,4,1,giana201,01,1FX,9/F/SF.3-H(RBI)(UR)
+play,4,1,giana201,01,1FX,9/F/SF.3-H(RBI)
 play,4,1,whitk201,11,1FBX,S7/L.1-2
 play,4,1,albaj201,30,BBBB,W.2-3;1-2
-play,4,1,lebla201,00,X,D8/F.3-H(RBI)(UR);2-H(RBI)(UR);1-3
+play,4,1,lebla201,00,X,D8/F.3-H(RBI);2-H(RBI);1-3
 play,4,1,leguj201,00,,NP
 sub,mackj201,"Jamie Mackay",0,5,1
 play,4,1,leguj201,00,.,NP
 sub,edwas201,"Sarah Edwards",0,4,3
 play,4,1,leguj201,00,..,NP
 sub,rochm201,"Michelle Roche",0,7,9
-play,4,1,leguj201,00,...X,S9/F.3-H(RBI)(UR);2-H(RBI)(UR)
+play,4,1,leguj201,00,...X,S9/F.3-H(RBI);2-H(RBI)
 play,4,1,daybe201,10,BH,HP.1-2
 play,4,1,parkj201,10,BX,E5/TH1/G.2-3;1-2
 com,"$Offline throw by 3B pulled 1B off of the bag"
@@ -318,7 +318,7 @@ play,7,0,lansa201,22,BBCFT,K
 play,7,0,edwas201,21,BBCX,S8/F.2-H(RBI);1-2
 play,7,0,mackj201,11,BFX,8/F
 com,"$Three-inning save by Eckert is WPBL's first save"
-data,er,rochm201,2
+data,er,rochm201,7
 data,er,mackj201,1
 data,er,albaj201,0
 data,er,ecken201,1
@@ -526,12 +526,12 @@ com,"$Fumbled catch"
 play,2,1,albaj201,32,CCBBBFB,W.2-3;1-2
 play,2,1,lebla201,20,BBX,S9/G.3-H(RBI)(UR);2-3;1-2
 com,"$Both balls nearly hit Leblanc"
-play,2,1,jorga201,22,BFFBX,S8/F.3-H(RBI)(UR);2-H(RBI)(UR);1-3;B-2(E6/THH)
+play,2,1,jorga201,22,BFFBX,S8/F.3-H(RBI);2-H(RBI);1-3;B-2(E6/THH)
 com,"$Jorge ducked to avoid a HBP, but the ball hit her still-upright bat leading to foul ball 1"
 com,"$The relay throw home was very high, allowing further advance"
 play,2,1,kapls201,00,,NP
 sub,mackj201,"Jamie Mackay",0,4,1
-play,2,1,kapls201,00,.X,D9/L.3-H(RBI);2-H(RBI)
+play,2,1,kapls201,00,.X,D9/L.3-H(RBI);2-H(RBI)(UR)
 play,2,1,leguj201,00,X,13/BG/SH.2-3
 play,2,1,eystj201,21,CBBX,9/F
 play,3,0,maxit201,00,X,9/L
@@ -605,7 +605,7 @@ sub,corip201,"Peyton Coria",1,2,1
 play,7,0,honda201,31,..BBBCX,13/G
 play,7,0,davim201,22,BCSBX,3/P
 play,7,0,lansa201,11,BCX,S9/F.BX2(96)
-data,er,naras201,5
+data,er,naras201,6
 data,er,mackj201,8
 data,er,frana201,1
 data,er,whitk201,2
@@ -858,7 +858,7 @@ play,4,1,parkj201,00,X,S7/L.3-H(RBI)(UR);2-3;1-2
 com,"$Over the head of the shortstop"
 play,4,1,eystj201,22,CFBBFX,9/F/SF.3-H(RBI);2-3
 play,4,1,daybe201,01,C>B,SB2
-play,4,1,daybe201,11,C>B.X,S8/G.3-H(RBI)(UR);2-H(RBI)(UR);B-2(E4)
+play,4,1,daybe201,11,C>B.X,S8/G.3-H(RBI);2-H(RBI);B-2(E4)
 com,"$Past the diving effort by the 2B, slightly fumbled by CF though runner from 2nd likely would have scored anyway"
 com,"$Missed catch by 2B allowed batter to advance to 2nd"
 play,4,1,giana201,00,,NP
@@ -875,18 +875,18 @@ play,5,1,kapls201,31,BCBBX,S8/F.1-2
 com,"$SS, LF, and CF all converged but none could make the play"
 play,5,1,parkj201,20,BBX,C/E2.2-3;1-2;B-1
 com,"$Park's swing hit Greenwood on the glove"
-play,5,1,eystj201,12,BFSX,S7/L.3-H(UR);2-3;1-2
+play,5,1,eystj201,12,BFSX,S7/L.3-H(RBI);2-3;1-2
 com,"$Foul ball hit home plate umpire Liu in the face, but she stayed in"
-play,5,1,daybe201,11,FBX,7/F/SF.3-H(UR)
-play,5,1,giana201,00,X,S7/L.2-H(E7)(UR);1-2
+play,5,1,daybe201,11,FBX,7/F/SF.3-H(RBI)(UR)
+play,5,1,giana201,00,X,S7/L.2-H(E7)(NR)(UR);1-2
 com,"$Fumbled on the fielding attempt"
 play,5,1,whitk201,00,,NP
 sub,dumam201,"Maika Dumais",0,8,1
 play,5,1,whitk201,00,.,NP
 sub,robis201,"Sabrina Robinson",0,5,3
-play,5,1,whitk201,00,..X,E6/TH1/G.2-H(UR);1-3;B-2
+play,5,1,whitk201,00,..X,E6/TH1/G.2-H(NR)(UR);1-3;B-2
 com,"$Low pitch got past the 1B"
-play,5,1,leguj201,10,BX,D7/G.3-H(UR);2-H(E7)(UR);BX3(765)
+play,5,1,leguj201,10,BX,S7/G.3-H(RBI)(UR);2-H(E7)(NR)(UR);BX3(765)
 com,"$Ball got past the diving shortstop, the LF fumbled the fielding attempt and the ball got to the wall"
 com,"First ball listed on PBP and in broadcast, but not shown in footage"
 play,6,0,hastl201,00,,NP
@@ -910,7 +910,7 @@ play,6,1,lebla201,31,BCBBB,W
 play,6,1,jorga201,32,BBFCB1H,HP.1-2
 play,6,1,kapls201,10,BX,S8/F.2-3;1-2
 com,"$Long single at the wall"
-play,6,1,parkj201,32,BFBFBB,W.3-H;2-3;1-2
+play,6,1,parkj201,32,BFBFBB,W.3-H(RBI);2-3;1-2
 play,6,1,corip201,00,,NP
 sub,blunk201,"Kate Blunt",0,7,1
 play,6,1,corip201,00,.,NP
@@ -918,10 +918,10 @@ sub,haasg201,"Gabrielle Haas",0,2,6
 play,6,1,corip201,00,..,NP
 sub,yamas201,"Suzuka Yamamoto",0,8,4
 play,6,1,corip201,12,...CBCC,K
-play,6,1,daybe201,01,SS,WP.3-H;2-3;1-2
+play,6,1,daybe201,01,SS,WP.3-H(NR);2-3;1-2
 play,6,1,daybe201,12,SS.BS,K
 play,6,1,giana201,32,CSBFBBB,W
-play,6,1,whitk201,32,BBSBSB,W.3-H;2-3;1-2
+play,6,1,whitk201,32,BBSBSB,W.3-H(RBI);2-3;1-2
 play,6,1,leguj201,12,CCBS,K
 play,7,0,paddm201,22,CBCBS,K
 play,7,0,robis201,12,FBFX,S3/G
@@ -934,8 +934,8 @@ play,7,0,yamas201,22,BFBFFS,K.3-H(E2/THH)(UR);2-H(UR);BX2(426)
 com,"$Runner on 3rd hesitated on the way home, likely would have been out if not for an errant throw to the pitcher."
 com,"$The 2B threw to the catcher on an unsuccessful attempt to get the runner from 2nd, the catcher then threw to"
 com,"$the shortstop to nab Yamamoto trying for 2nd."
-data,er,schra201,2
-data,er,benap201,0
+data,er,schra201,4
+data,er,benap201,1
 data,er,dumam201,3
 data,er,blunk201,0
 data,er,whitk201,3
@@ -1100,7 +1100,7 @@ play,7,1,jorga201,02,.FCH,HP
 play,7,1,kapls201,02,FCX,S8/L.1-2
 play,7,1,parkj201,11,BCX,E5/TH2/G.2-3;1-2;B-1
 com,"$3B threw the ball over the SS but the CF backed up the play preventing extra bases"
-play,7,1,gutis201,00,X,D8/L.3-H(RBI);2-H(RBI);1-3
+play,7,1,gutis201,00,X,D8/L.3-H(RBI);2-H(RBI)(UR);1-3
 play,7,1,eystj201,00,,NP
 sub,daybe201,"Ela Day-Bedard",1,9,11
 play,7,1,daybe201,32,.FBBBFC,K/C
@@ -1111,7 +1111,7 @@ play,7,1,lebla201,32,BBCBCX,HR/F8D.3-H(RBI)(UR);2-H(RBI)(UR);1-H(RBI)(UR);B-H(RB
 com,"$First walkoff in WPBL history"
 data,er,kim-r201,3
 data,er,reynj201,0
-data,er,osulc201,2
+data,er,osulc201,1
 data,er,ecken201,5
 data,er,delcr201,0
 data,er,gildl201,0

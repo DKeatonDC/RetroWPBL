@@ -298,7 +298,7 @@ play,6,1,edwas201,02,CCX,8/F
 play,6,1,mackj201,30,BBBB,W
 play,6,1,rochm201,00,X,D9/L.1-3
 com,"$Leblanc jumped and was just barely able to graze the ball as it went into the RF corner"
-play,6,1,maxit201,12,BSCB,WP.3-H(NR);2-3
+play,6,1,maxit201,12,BSCB,WP.3-H;2-3
 play,6,1,maxit201,32,BSCB.BFX,HR/F8D.3-H(RBI)
 com,"$Foul ball was tipped but not held onto, a costly mistake"
 com,"$Whitmore crashed full-tilt into fence pole in CF wall while tracking ball (no warning track)"
@@ -309,7 +309,7 @@ com,"$Gianelloni swung so hard she fell over"
 play,7,0,whitk201,00,X,S7/G.1-2
 play,7,0,albaj201,01,FX,46(1)3/GDP/G
 data,er,whitk201,7
-data,er,corip201,1
+data,er,corip201,2
 data,er,delcr201,3
 data,er,satoa201,0
 data,er,apgab201,2
@@ -399,7 +399,7 @@ play,4,1,shima201,31,FBBBB,W
 play,4,1,eynoc201,00,X,S7/L.1-2
 play,4,1,edwas201,22,CBBCS,K
 play,4,1,benis201,02,FCFS,K
-play,4,1,davim201,00,X,D7/L.2-H(RBI)(UR);1-3
+play,4,1,davim201,00,X,D7/L.2-H(RBI);1-3
 com,"$LF overshot the ball"
 com,"Initially ruled single plus error"
 play,4,1,honda201,02,CFFX,7/F
@@ -466,7 +466,7 @@ play,7,0,jorga201,01,CX,5/L
 play,7,0,kapls201,11,CBX,8/F
 play,7,0,leguj201,12,CCBFX,9/F
 com,"$RF and 2B collided during the fielding attempt, but RF held onto the ball to secure the final out"
-data,er,whitk201,4
+data,er,whitk201,5
 data,er,corip201,3
 data,er,rochm201,3
 data,er,mackj201,1
@@ -715,7 +715,7 @@ play,1,1,lansa201,01,CH,HP.1-2
 play,1,1,mackj201,10,BX,64(1)/FO/G.2-3
 play,1,1,shima201,22,B1SBF>S,K+SB2
 com,"$Strike 3 fell out of catcher's glove"
-play,1,1,eynoc201,01,CX,S6/G.3-H(RBI);2-H(RBI)(E6/TH1)
+play,1,1,eynoc201,01,CX,S6/G.3-H(RBI);2-H(E6/TH1)(NR)
 com,"$Past the diving 3B, long throw by SS"
 com,"$Low bouncer forced 1B to backpedal onto the base, where she collided with Eynon"
 play,1,1,edwas201,31,BBF1BB,W.1-2
@@ -918,7 +918,7 @@ play,4,0,benid201,00,.,NP
 sub,benis201,"Samaria Benitez",1,1,6
 play,4,0,benid201,00,..>B,SB2
 play,4,0,benid201,30,..B.VVV,W
-play,4,0,osulc201,31,BBBCX,7/L/SF.3-H(E2)(RBI)(UR);2-3;1-2
+play,4,0,osulc201,31,BBBCX,7/L/SF.3-H(RBI);2-3(E2);1-2
 com,"$Great relay by the 3B on the throw had the runner beat, but catcher dropped the ball allowing further advance"
 play,4,0,studl201,01,SX,8/F/SF.3-H(RBI)(UR)
 play,4,0,lahnk201,12,CCB,WP.2-3
@@ -951,17 +951,17 @@ sub,studl201,"London Studer",0,4,1
 play,6,1,shima201,00,.,NP
 sub,murpk201,"Katherine Murphy",0,5,7
 play,6,1,shima201,30,..BBBB,W
-play,6,1,lansa201,00,B,PB.1-2
+play,6,1,lansa201,00,B,WP.1-2
 play,6,1,lansa201,32,B.BCB+2FFFB,W
-play,6,1,mackj201,00,X,S8/F.2-H(E8)(UR);1X3(8125)
+play,6,1,mackj201,00,X,S8/F.2-H(E8);1X3(8125)
 com,"$CF fumbled picking up the ball"
 play,6,1,edwas201,00,H,HP.1-2
 play,6,1,eynoc201,31,BCB+2BB,W.2-3;1-2
-play,6,1,honda201,30,BBBB,W.3-H(RBI)(UR);2-3;1-2
+play,6,1,honda201,30,BBBB,W.3-H(RBI);2-3;1-2
 play,6,1,foxxm201,00,,NP
 sub,lee-j201,"Jaida Lee",0,4,1
 play,6,1,foxxm201,02,.FCX,4/P
-play,6,1,davim201,22,BCBCFX,D7/F.3-H(RBI)(UR);2-H(RBI)(UR);1-3
+play,6,1,davim201,22,BCBCFX,D7/F.3-H(RBI);2-H(RBI);1-3
 play,6,1,benis201,00,X,43/G
 play,7,0,osulc201,00,,NP
 sub,meidm201,"Meggie Meidlinger",1,2,1
@@ -969,9 +969,9 @@ play,7,0,osulc201,01,.CX,43/G
 play,7,0,lee-j201,22,FCFFBBS,K
 play,7,0,murpk201,22,BBFFX,8/F
 data,er,saike201,5
-data,er,studl201,0
+data,er,studl201,4
 data,er,lee-j201,0
-data,er,maxit201,4
+data,er,maxit201,5
 data,er,shima201,0
 data,er,meidm201,0
 id,LAQ202609030
@@ -1040,9 +1040,8 @@ play,2,0,osulc201,01,CX,S9/G.2-H(RBI);1-3
 play,2,0,lahnk201,22,B1SBSB,WP.1-2
 com,"$Wild pitch bounced vertically and landed right next to home plate, preventing runner advance from 3rd"
 play,2,0,lahnk201,32,B1SBSB.X,6/L
-play,2,0,perev201,10,BX,S7/G.3-H(RBI);2-H(RBI)(UR);B-2
+play,2,0,perev201,10,BX,S7/G.3-H(RBI);2-H(RBI);B-2(E6/THH)
 com,"$Throw from the shortstop to the catcher had the runner from 2nd beat but catch was fumbled"
-com,"No error awarded"
 play,2,0,saike201,11,BC2,OA.2-3(E1/TH2)
 com,"$Pickoff attempt went wide"
 play,2,0,saike201,11,BC2.X,43/G.3-H(RBI)(UR)
@@ -1091,9 +1090,10 @@ play,4,1,benis201,12,BCFX,S9/G.1-2
 play,4,1,shima201,32,BBBFSB,W.2-3;1-2
 play,4,1,lansa201,00,,NP
 sub,zetta201,"Alyssa Zettlemoyer",0,0,1
-play,4,1,lansa201,02,.FCX,9/F/SF.3-H(RBI);2-3;1-2
+play,4,1,lansa201,02,.FCX,9/F/SF.3-H(RBI);2-3;1-2(E9/TH3)
 com,"$Foul ball was almost caught by the catcher near the stands"
-play,4,1,honda201,02,CFFFX,S8/G.3-H(RBI);2-H(RBI)
+com,"$Throw got by both 2B and SS at 2nd base and scooted to 3rd"
+play,4,1,honda201,02,CFFFX,S8/G.3-H(RBI);2-H(RBI)(UR)
 com,"$Past the diving shortstop"
 play,4,1,eynoc201,31,BBSB+1B,W.1-2
 play,4,1,edwas201,12,CCBX,8/L
@@ -1137,19 +1137,19 @@ play,7,0,saike201,12,CCBX,S7/G
 com,"$Fell fair literally on the 3B line"
 play,7,0,ecclc201,12,BF>S,SB2
 play,7,0,ecclc201,22,BF>S.BFFX,13/G.2-2
-play,7,0,willm201,02,CCX,S7/G.2-H(E7)(RBI)(UR);B-2
+play,7,0,willm201,02,CCX,S7/G.2-H(NR);B-2(E7)
 com,"$Past the diving 3B; fumbled catch, ball went under glove and went to the wall"
 play,7,0,naras201,32,BBFCBS,K
-play,7,0,yonen201,10,BX,HR/F78D.2-H(RBI)(UR);B-H(RBI)(UR)
-play,7,0,benid201,22,CBBCFX,HR/L9D.B-H(RBI)(UR)
+play,7,0,yonen201,10,BX,HR/F78D.2-H(RBI);B-H(RBI)
+play,7,0,benid201,22,CBBCFX,HR/L9D.B-H(RBI)
 play,7,0,osulc201,32,CFBBBFS,K
 com,"$First foul ball was very far back behind the plate, almost caught by Foxx"
 play,7,1,foxxm201,32,BFBBCB,W
 play,7,1,baira201,32,CCBBFBFS,K
 play,7,1,davim201,22,BBCFX,46(1)3/GDP/G
-data,er,kim-r201,6
+data,er,kim-r201,5
 data,er,zetta201,1
 data,er,ecclc201,0
-data,er,mackj201,6
+data,er,mackj201,7
 data,er,honda201,3
-data,er,villi201,0
+data,er,villi201,4
