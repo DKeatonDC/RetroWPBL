@@ -231,7 +231,8 @@ play,3,0,albaj201,00,X,63/G
 play,3,1,lansa201,31,BBCBX,S7/L
 play,3,1,foxxm201,01,1CX,S8/F.1-3
 com,"$Long single at the wall, seems to have been misread by CF"
-play,3,1,edwas201,02,CFB,SB2
+play,3,1,edwas201,02,CFB,WP.1-2
+com,"$On a blocked ball"
 play,3,1,edwas201,12,CFB.X,S9/L.3-H(RBI);2-H(RBI)
 play,3,1,mackj201,11,B+1CX,HR/F78D.1-H(RBI)
 play,3,1,rochm201,12,FBSX,63/G
@@ -525,7 +526,7 @@ play,1,0,studl201,01,CX,5/L
 play,1,1,villi201,11,BCX,53/G
 play,1,1,eynoc201,32,BCSBBX,13/G
 play,1,1,lansa201,11,BCH,HP
-play,1,1,mackj201,01,CB+1,OA.1-2(E2/TH)
+play,1,1,mackj201,01,CB+1,OA.1-2(E2/TH1)
 com,"$Attempted pickoff throw went high over 1B's head"
 play,1,1,mackj201,12,CB+1.CC,K/C
 play,2,0,lahnk201,00,H,HP
@@ -713,8 +714,7 @@ play,1,1,benis201,01,CX,S9/F
 com,"$Right down the 1B line"
 play,1,1,lansa201,01,CH,HP.1-2
 play,1,1,mackj201,10,BX,64(1)/FO/G.2-3
-play,1,1,shima201,22,B1SBF>S,K+SB2
-com,"$Strike 3 fell out of catcher's glove"
+play,1,1,shima201,22,B1SBFS,K+PB.1-2
 play,1,1,eynoc201,01,CX,S6/G.3-H(RBI);2-H(E6/TH1)(NR)
 com,"$Past the diving 3B, long throw by SS"
 com,"$Low bouncer forced 1B to backpedal onto the base, where she collided with Eynon"
@@ -764,8 +764,9 @@ play,5,0,delee201,11,BSX,S8/G
 play,5,0,schra201,00,>C,SB2
 play,5,0,schra201,01,>C.X,S8/L.2-H(RBI)
 com,"$Fielding attempt was mildly fumbled, but runner on 2nd likely would have scored anyhow"
-play,5,0,kim-h201,00,B,WP.1-2
-play,5,0,kim-h201,10,B.X,5/L
+play,5,0,kim-h201,00,>B,SB2.1-2
+com,"$Ball got away from the catcher, but stolen base awarded as runner had already taken off beforehand"
+play,5,0,kim-h201,10,>B.X,5/L
 play,5,1,edwas201,00,X,6/P
 play,5,1,foxxm201,32,BCBFBB,W
 play,5,1,villi201,22,B1FBFX,S7/G.1-2

@@ -53,9 +53,9 @@ com,"$On an excellent diving stop and long throw by Zettlemoyer"
 play,1,1,yonen201,00,H,HP
 play,1,1,benid201,01,CX,7/F
 com,"$Shortstop and LF almost collided, but LF secured the ball"
-play,1,1,osulc201,11,CB1>B,SB2
+play,1,1,osulc201,11,CB1B,WP.1-2
 com,"$Ball got away from the catcher, the throw down to 2nd hit Yonetani on the shoulder and helmet"
-play,1,1,osulc201,31,CB1>B.BB,W
+play,1,1,osulc201,31,CB1B.BB,W
 play,1,1,lahnk201,22,BBCCX,5(2)/FO/G
 com,"$Lansdell initially went for the bag, but decided to tag Yonetani instead"
 play,1,1,perev201,12,FBCFX,4/P
