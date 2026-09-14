@@ -134,11 +134,12 @@ play,6,1,willm201,11,CBB,WP.2-3;1-2
 play,6,1,willm201,31,CBB.BB,W
 play,6,1,zetta201,00,,NP
 sub,meidm201,"Meggie Meidlinger",0,7,1
-play,6,1,zetta201,12,SBCFX,1(B)3(1)/LDP/L
+play,6,1,zetta201,12,.SBCFX,1(B)3(1)/LDP/L
 play,6,1,ecclc201,01,CX,8/F
 play,7,0,mackj201,02,FCFX,8/F
 play,7,0,edwas201,11,BFH,HP
-com,"$May have been intentional?"
+com,"$May have been intentional, Mackay appeared to chirp at Studer after her flyout and HBP was right after"
+com,"$Both benches were warned"
 play,7,0,ibard201,32,BCBSBB,W.1-2
 play,7,0,meidm201,31,BFBBX,S7/P.2-3;1-2
 com,"$LF, 3B, and SS all converged but no one could catch it"
@@ -168,3 +169,186 @@ data,er,meidm201,2
 data,er,saike201,4
 data,er,studl201,5
 data,er,izumk201,0
+id,LAQ202609120
+info,visteam,NYH
+info,hometeam,LAQ
+info,site,SPR03
+info,date,2026/09/12
+info,number,0
+info,gametype,semifinal
+info,starttime,6:00PM
+info,daynight,night
+info,innings,7
+info,umphome,mckej701
+info,ump1b,beras701
+info,ump2b,(none)
+info,ump3b,monaa701
+info,umplf,(none)
+info,umprf,(none)
+info,temp,88
+info,winddir,ltor
+info,fieldcond,dry
+info,precip,none
+info,sky,sunny
+info,timeofgame,146
+info,wp,ecclc201
+info,lp,meidm201
+info,save,(none)
+start,yonen201,"Natsuki Yonetani",0,1,9
+start,benid201,"Denae Benites",0,2,2
+start,studl201,"London Studer",0,3,7
+start,osulc201,"Claire O'Sullivan",0,4,10
+start,lahnk201,"Kylee Lahners",0,5,3
+start,perev201,"Valerie Perez",0,6,5
+start,ecclc201,"Claire Eccles",0,7,8
+start,willm201,"Madison Willan",0,8,4
+start,saike201,"Emi Saiki",0,9,6
+start,kim-r201,"Rakyung Kim",0,0,1
+start,benis201,"Samaria Benitez",1,1,4
+start,honda201,"Amira Hondras",1,2,9
+start,lansa201,"Ashton Lansdell",1,3,5
+start,mackj201,"Jamie Mackay",1,4,1
+start,eynoc201,"Caitlin Eynon",1,5,6
+start,edwas201,"Sarah Edwards",1,6,3
+start,villi201,"Isabella Villarreal",1,7,7
+start,foxxm201,"Maggie Foxx",1,8,2
+start,davim201,"Mo'ne Davis",1,9,8
+play,1,0,yonen201,22,CBBFFX,S7/G
+play,1,0,benid201,21,BFB1X,S7/G.1-2
+play,1,0,studl201,22,BFBFX,46(1)3/GDP/G.2-3
+play,1,0,osulc201,22,CBCBX,D7/L.3-H(RBI)
+com,"$Bounced to the wall"
+play,1,0,lahnk201,12,BCCFFS,K
+play,1,1,benis201,01,CX,9/L
+play,1,1,honda201,11,CBX,S7/L
+play,1,1,lansa201,11,B1FX,S7/L.1-2
+play,1,1,mackj201,12,FBCS,K
+play,1,1,eynoc201,12,BFCFFFS,K
+play,2,0,perev201,20,BBX,8/F
+com,"$On the long run by Davis"
+play,2,0,ecclc201,32,CBFBBB,W
+play,2,0,willm201,00,H,HP.1-2
+play,2,0,saike201,20,B>B+2,CS3(265)
+com,"$Saiki pulled away from a bunt attempt, perhaps tricking the runner into thinking a sacrifice as on the way"
+play,2,0,saike201,31,B>B+2.BCX,43/G
+com,"$2B bobbled the ball but recovered to throw the diving runner out"
+play,2,1,edwas201,10,BX,S8/G
+play,2,1,villi201,00,X,S8/L.1-2
+play,2,1,foxxm201,22,CCBBFC,K/C
+play,2,1,davim201,30,BB+2BB,W.2-3;1-2
+play,2,1,benis201,01,CX,S8/L.3-H(RBI);2-3;1-2
+play,2,1,honda201,01,CX,64(1)3/GDP/G
+play,3,0,yonen201,00,,NP
+sub,satoa201,"Ayami Sato",1,8,1
+play,3,0,yonen201,00,.,NP
+sub,mackj201,"Jamie Mackay",1,4,2
+play,3,0,yonen201,00,..X,S5/G
+com,"$3B slid over for the play but accidentally kicked it away"
+play,3,0,benid201,12,CB1CX,HR/F89D.1-H(NR)
+play,3,0,studl201,21,BBCX,53/G
+com,"$Strong throw to first"
+play,3,0,osulc201,00,X,8/F
+play,3,0,lahnk201,22,CBBTX,53/G
+com,"$Bounce came up high and deflected off of Lansdell, but she still managed to recover for the out"
+play,3,1,lansa201,00,X,53/G
+play,3,1,mackj201,01,CX,8/F
+play,3,1,eynoc201,00,X,S7/G
+play,3,1,edwas201,31,BBBCB,W.1-2
+play,3,1,villi201,00,X,S9/F.2-H(RBI);1-2
+com,"$Right by the RF line"
+play,3,1,satoa201,00,B,WP.2-3;1-2
+play,3,1,satoa201,12,B.SCX,43/G
+com,"$Very high bouncer"
+play,4,0,perev201,00,X,4/P
+play,4,0,ecclc201,32,BCSBBFX,D8/F
+com,"$Rolled to the wall"
+play,4,0,willm201,21,BCBX,S8/G.2-3
+play,4,0,saike201,01,CN,BK.3-H(NR);1-2
+com,"$Balk was called on what would otherwise have been a foul ball"
+play,4,0,saike201,01,CN.X,S9/L.2-3
+play,4,0,yonen201,20,BB>B,SB2
+com,"$Runner at first was too far off base, catcher hesitated to determine where to throw to and threw to the 2B who"
+com,"$threw to the 1B to try to start the rundown. However, the 1B threw to the catcher to stop a potential steal of"
+com,"$home although Willan was not that far off third. The subsequent throw to the 3B did not get her."
+com,"$a potential steal of home"
+play,4,0,yonen201,30,BB>B.B,W
+play,4,0,benid201,00,X,S7/L.3-H(RBI);2-3;1-2
+play,4,0,studl201,01,CX,S7/L.3-H(RBI);2-H(E7)(NR)(UR);1-2
+com,"$Bobbled catch, and the ball was kicked away"
+play,4,0,osulc201,01,CX,64(1)3/GDP/G
+play,4,1,davim201,00,,NP
+sub,osulc201,"Claire O'Sullivan",0,4,1
+play,4,1,davim201,22,.CTBBFX,6/P
+play,4,1,benis201,01,CX,8/F
+play,4,1,honda201,20,BBX,7/L
+play,5,0,lahnk201,00,X,6/P
+play,5,0,perev201,01,CX,S8/L
+play,5,0,ecclc201,11,FBX,6/P
+play,5,0,willm201,11,CB1X,9/L
+play,5,1,lansa201,02,FSH,HP
+play,5,1,mackj201,00,>C,SB2
+play,5,1,mackj201,01,>C.X,53/G.2-3
+play,5,1,eynoc201,21,BBSX,2/P/FL
+play,5,1,edwas201,31,BBBCX,S8/L.3-H(RBI)
+play,5,1,villi201,31,B1BBCX,S8/G.1-2
+play,5,1,satoa201,00,,NP
+sub,shima201,"Ayuri Shimano",1,8,11
+play,5,1,shima201,01,.CX,S9/G.2-H(NR)(UR);1-H(NR)(UR);BX3(E9)(945)
+com,"$Past the diving 2B and under the RF's glove, second run may not have crossed the plate before the out"
+play,6,0,saike201,00,,NP
+sub,ibard201,"Diana Ibarra",1,8,9
+play,6,0,saike201,00,.,NP
+sub,honda201,"Amira Hondras",1,2,1
+play,6,0,saike201,22,..CBCBX,53/G
+com,"$Another ball that bouced high and deflected off Lansdell before she recovered for the out"
+play,6,0,yonen201,22,SCBBX,7/L
+play,6,0,benid201,31,BBCBB,W
+play,6,0,studl201,12,1FFB>B,CS2(26)
+play,6,1,davim201,10,BX,S9/G
+com,"$Very close play at the plate"
+play,6,1,benis201,00,H,HP.1-2
+com,"$Benitez attempted to duck but the ball curved into her helmet anyhow; she was checked out and stayed in"
+play,6,1,honda201,10,BX,15(2)/FO/BG
+play,6,1,lansa201,11,BFX,S7/F.2-H(RBI);1-2
+com,"$Deep fly ball right near the top of the wall; LF ran in for the long catch but couldn't glove it"
+com,"$The subsequent relay throw to home plate bounced off of the diving Benitez's right foot to O'Sullivan who"
+com,"$was backing up the play. Relays to the 3B and then the 1B could not get any outs though runners were off base"
+com,"$in anticipation of a possible advance"
+play,6,1,mackj201,11,FBB,WP.2-3;1-2
+play,6,1,mackj201,21,FBB.,NP
+sub,ecclc201,"Claire Eccles",0,7,1
+play,6,1,mackj201,21,FBB..,NP
+sub,osulc201,"Claire O'Sullivan",0,4,3
+play,6,1,mackj201,21,FBB...,NP
+sub,izumk201,"Keira Izumi",0,5,8
+play,6,1,mackj201,32,FBB....CFBFB,W
+play,6,1,eynoc201,02,CSH,HP.3-H(RBI);2-3;1-2
+play,6,1,edwas201,00,X,5/P/FL
+play,6,1,villi201,22,BBCFX,13/G
+play,7,0,studl201,00,,NP
+sub,meidm201,"Meggie Meidlinger",1,7,1
+play,7,0,studl201,00,.,NP
+sub,honda201,"Amira Hondras",1,2,9
+play,7,0,studl201,00,..,NP
+sub,ibard201,"Diana Ibarra",1,8,7
+play,7,0,studl201,22,...BCFFFBX,63/G
+com,"$Excellent long throw"
+play,7,0,osulc201,22,BBSCX,HR/F7D
+com,"$Ball hit the external wall"
+play,7,0,izumk201,11,CBX,HR/F7D
+play,7,0,perev201,00,X,8/F
+play,7,0,ecclc201,12,CCBFX,S8/F
+play,7,0,willm201,10,BX,7/F
+com,"$On the long run"
+play,7,1,ibard201,00,,NP
+sub,rochm201,"Michelle Roche",1,8,11
+play,7,1,rochm201,30,.BBBB,W
+play,7,1,davim201,12,BCCX,3/P/FL
+play,7,1,benis201,11,BCX,54(1)3/GDP/G
+data,er,kim-r201,2
+data,er,osulc201,3
+data,er,ecclc201,0
+data,er,mackj201,1
+data,er,satoa201,5
+data,er,honda201,0
+data,er,meidm201,2
