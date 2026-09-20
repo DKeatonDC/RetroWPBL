@@ -480,7 +480,7 @@ play,5,0,dumam201,22,BCCBX,5/L
 play,5,0,kim-h201,00,X,D9/L.3-H(RBI);1-3
 play,5,0,padgr201,00,,NP
 sub,studl201,"London Studer",1,0,1
-play,5,0,padgr201,22,.BCBF,FLE2
+play,5,0,padgr201,21,.BCBF,FLE2
 com,"$Ball was popped up in fair territory and bounced out of catcher's glove, but it was ruled foul"
 play,5,0,padgr201,22,.BCBFS,K.BX1(23)
 play,5,0,hastl201,32,BFFBBB,W

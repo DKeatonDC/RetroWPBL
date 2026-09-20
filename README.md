@@ -24,9 +24,9 @@ Rosters for teams still playing are shown with 29-30 people in each, but there i
 I go through a standardized process:
 1. I watch and score all games live directly in the event file, making notes of plays that I have either missed or that need to be reviewed later.
 2. I go through archived game footage on Youtube and fill in said missing information.
-3. I cross reference with official PBP, checking for discrepancies in scoring decisions, listed events, or pitch sequences.
+3. I cross reference with official PBP (as of the last week of the 2026 regular season, the official WPBL stats site is no longer publicly available, and thus I use [SportyDolphin's website](sportydolphin.fun) as a proxy), checking for discrepancies in scoring decisions, listed events, or pitch sequences.
 4. I once again go through game footage to compare, making notes for potential scoring mistakes (e.g. incorrect runner advances, incorrect error attribution), and amending pitch sequences if I am mistaken (if the official pitch sequence is mistaken, I use my own.)
-5. Once all events are verified, I fill out event file game metadata.
+5. Once events are verified, I fill out game metadata. Temperature data - if not explicitly given on broadcast - is taken from Weather Underground historic data of Springfield. Sky, precipitation, wind direction, and field condition are visually confirmed by feed. Game time is from first pitch to last out.
 6. I then construct game logs and box scores from event files.
 
 ## What aligns with and what differs from official data
