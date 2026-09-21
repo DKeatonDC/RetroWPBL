@@ -10,10 +10,7 @@ info,daynight,night
 info,innings,7
 info,umphome,hartk701
 info,ump1b,dinek701
-info,ump2b,(none)
 info,ump3b,mckej701
-info,umplf,(none)
-info,umprf,(none)
 info,temp,72
 info,winddir,unknown
 info,fieldcond,wet
@@ -181,10 +178,7 @@ info,daynight,night
 info,innings,7
 info,umphome,mckej701
 info,ump1b,beras701
-info,ump2b,(none)
 info,ump3b,monaa701
-info,umplf,(none)
-info,umprf,(none)
 info,temp,88
 info,winddir,ltor
 info,fieldcond,dry
@@ -364,10 +358,7 @@ info,daynight,night
 info,innings,7
 info,umphome,dinek701
 info,ump1b,beras701
-info,ump2b,(none)
 info,ump3b,mckej701
-info,umplf,(none)
-info,umprf,(none)
 info,temp,83
 info,winddir,unknown
 info,fieldcond,dry

@@ -10,10 +10,6 @@ info,daynight,night
 info,innings,7
 info,umphome,mckej701
 info,ump1b,dinek701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,78
 info,winddir,unknown
 info,fieldcond,dry
@@ -193,10 +189,6 @@ info,daynight,night
 info,innings,8
 info,umphome,delpb701
 info,ump1b,monaa701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,87
 info,winddir,unknown
 info,fieldcond,dry
@@ -398,10 +390,6 @@ info,daynight,night
 info,innings,7
 info,umphome,mckej701
 info,ump1b,herpe701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,85
 info,winddir,unknown
 info,fieldcond,dry
@@ -565,10 +553,6 @@ info,daynight,night
 info,innings,7
 info,umphome,herpe701
 info,ump1b,pullj701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,80
 info,winddir,fromcf
 info,fieldcond,dry
@@ -740,10 +724,6 @@ info,daynight,day
 info,innings,7
 info,umphome,dinek701
 info,ump1b,pullj701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,81
 info,winddir,ltor
 info,fieldcond,dry
@@ -926,10 +906,6 @@ info,daynight,night
 info,innings,7
 info,umphome,dinek701
 info,ump1b,pullj701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,73
 info,winddir,ltor
 info,fieldcond,dry
@@ -1060,10 +1036,6 @@ info,daynight,night
 info,innings,7
 info,umphome,beras701
 info,ump1b,hartk701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,94
 info,winddir,tolf
 info,fieldcond,dry
@@ -1234,10 +1206,6 @@ info,daynight,night
 info,innings,7
 info,umphome,monaa701
 info,ump1b,hartk701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,90
 info,winddir,torf
 info,fieldcond,dry
