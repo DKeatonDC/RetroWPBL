@@ -380,7 +380,7 @@ info,fieldcond,dry
 info,precip,none
 info,sky,cloudy
 info,timeofgame,147
-info,wp,schra201
+info,wp,brico201
 info,lp,ecclc201
 info,save,schig201
 start,hastl201,"Lexi Hastings",0,1,8
@@ -891,8 +891,8 @@ info,fieldcond,dry
 info,precip,none
 info,sky,sunny
 info,timeofgame,133
-info,wp,satoa201
-info,lp,osulc201
+info,wp,osulc201
+info,lp,satoa201
 info,save,(none)
 start,benis201,"Samaria Benitez",0,1,4
 start,lansa201,"Ashton Lansdell",0,2,5

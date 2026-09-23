@@ -16,7 +16,7 @@ info,fieldcond,dry
 info,precip,none
 info,sky,sunny
 info,timeofgame,149
-info,wp,whitk201
+info,wp,ecken201
 info,lp,padgr201
 info,save,(none)
 start,giana201,"Amanda Gianelloni",0,1,4
@@ -397,7 +397,7 @@ info,precip,none
 info,sky,cloudy
 info,timeofgame,144
 info,wp,rochm201
-info,lp,benap201
+info,lp,padgr201
 info,save,(none)
 start,davim201,"Mo'ne Davis",0,1,8
 start,honda201,"Amira Hondras",0,2,4
@@ -559,7 +559,7 @@ info,fieldcond,dry
 info,precip,none
 info,sky,sunny
 info,timeofgame,138
-info,wp,ecclc201
+info,wp,lee-j201
 info,lp,schra201
 info,save,(none)
 start,yonen201,"Natsuki Yonetani",0,1,9
@@ -730,7 +730,7 @@ info,fieldcond,dry
 info,precip,none
 info,sky,cloudy
 info,timeofgame,158
-info,wp,ecken201
+info,wp,gildl201
 info,lp,benap201
 info,save,(none)
 start,giana201,"Amanda Gianelloni",0,1,4
@@ -1212,7 +1212,7 @@ info,fieldcond,dry
 info,precip,none
 info,sky,cloudy
 info,timeofgame,139
-info,wp,satoa201
+info,wp,rochm201
 info,lp,schra201
 info,save,(none)
 start,benis201,"Samaria Benitez",0,1,4

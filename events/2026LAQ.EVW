@@ -815,7 +815,7 @@ info,sky,overcast
 info,timeofgame,127
 info,wp,shima201
 info,lp,studl201
-info,save,meidm201
+info,save,(none)
 start,yonen201,"Natsuki Yonetani",0,1,9
 start,benid201,"Denae Benites",0,2,2
 start,osulc201,"Claire O'Sullivan",0,3,3
@@ -969,9 +969,9 @@ info,fieldcond,dry
 info,precip,none
 info,sky,sunny
 info,timeofgame,186
-info,wp,kim-r201
+info,wp,ecclc201
 info,lp,mackj201
-info,save,ecclc201
+info,save,(none)
 start,yonen201,"Natsuki Yonetani",0,1,9
 start,benid201,"Denae Benites",0,2,2
 start,osulc201,"Claire O'Sullivan",0,3,3
