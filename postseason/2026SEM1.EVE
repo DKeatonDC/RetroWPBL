@@ -200,7 +200,7 @@ play,2,0,delcr201,02,CFX,3/G
 play,2,0,yamaa201,11,CBX,4/L
 play,2,0,giana201,31,BCBBX,D7/L
 play,2,0,whitk201,30,VVVV,I
-play,2,0,kapls201,10,BX,HR/F8D.2-H(NR);1-H(NR)
+play,2,0,kapls201,10,BX,HR/F8D.2-H(RBI);1-H(RBI)
 play,2,0,lebla201,11,BCX,8/F
 play,2,1,bryad201,32,BBFBCS,K
 play,2,1,geldt201,32,BSFFBBB,W
@@ -265,7 +265,7 @@ com,"$Great sliding catch by Whitmore"
 play,5,1,delee201,12,CBCS,K
 play,6,0,lebla201,20,BBX,S9/L
 play,6,0,jorga201,22,FCBFBX,7/L
-play,6,0,leguj201,20,BBX,7(B)3(1)/LDP
+play,6,0,leguj201,20,BBX,7(B)3(1)/LDP/L
 com,"$Great basket catch followed by an amazing throw and tag of first base to get the runner out"
 play,6,1,hastl201,00,,NP
 sub,gildl201,"Liz Gilder",0,0,1

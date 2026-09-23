@@ -1,0 +1,808 @@
+id,SFF202609160
+info,visteam,LAQ
+info,hometeam,SFF
+info,site,SPR03
+info,date,2026/09/16
+info,number,0
+info,gametype,final
+info,starttime,6:00PM
+info,daynight,night
+info,innings,7
+info,umphome,mckej701
+info,ump1b,beras701
+info,ump3b,dinek701
+info,temp,87
+info,winddir,unknown
+info,fieldcond,dry
+info,precip,none
+info,sky,cloudy
+info,timeofgame,146
+info,wp,mackj201
+info,lp,delcr201
+info,save,(none)
+start,shima201,"Ayuri Shimano",0,1,4
+start,lansa201,"Ashton Lansdell",0,2,5
+start,mackj201,"Jamie Mackay",0,3,10
+start,eynoc201,"Caitlin Eynon",0,4,6
+start,villi201,"Isabella Villarreal",0,5,7
+start,rochm201,"Michelle Roche",0,6,9
+start,edwas201,"Sarah Edwards",0,7,3
+start,foxxm201,"Maggie Foxx",0,8,2
+start,davim201,"Mo'ne Davis",0,9,8
+start,honda201,"Amira Hondras",0,0,1
+start,giana201,"Amanda Gianelloni",1,1,4
+start,whitk201,"Kelsie Whitmore",1,2,1
+start,kapls201,"Skylar Kaplan",1,3,9
+start,lebla201,"Andreanne Leblanc",1,4,3
+start,albaj201,"Jill Albayati",1,5,5
+start,jorga201,"Alexia Jorge",1,6,2
+start,parkj201,"Jua Park",1,7,7
+start,leguj201,"Joely Leguizamon",1,8,6
+start,daybe201,"Ela Day-Bedard",1,9,8
+play,1,0,shima201,12,CFBS,K
+play,1,0,lansa201,32,CBCBFBFS,K
+play,1,0,mackj201,01,FX,S7/L
+play,1,0,eynoc201,10,BX,S8/L.1-2
+play,1,0,villi201,32,CBBFFBX,9/L
+play,1,1,giana201,11,CBX,63/G
+play,1,1,whitk201,32,BFBSFBX,8/L
+com,"$Great sliding catch"
+play,1,1,kapls201,20,BBX,S7/F
+com,"$Right in front of the running LF"
+play,1,1,lebla201,32,BBBCFB,W.1-2
+play,1,1,albaj201,11,CBX,6/L
+com,"$Great leaping catch"
+play,2,0,rochm201,00,X,53/G
+com,"$On the tag application by Leblanc"
+play,2,0,edwas201,00,X,S9/G
+play,2,0,foxxm201,21,BB1CX,7/F
+play,2,0,davim201,02,CC>B,SB2
+play,2,0,davim201,12,CC>B.B,WP.2-3
+play,2,0,davim201,22,CC>B.B.FX,S8/L.3-H(RBI)
+play,2,0,shima201,21,BCBX,53/G
+play,2,1,jorga201,32,FCBBBH,HP
+play,2,1,parkj201,20,BBB,WP.1-2
+play,2,1,parkj201,30,BBB.B,W
+play,2,1,leguj201,02,CFC,K/C
+play,2,1,daybe201,00,X,S6/G.2-3;1-2
+com,"$Great stop but no play was possible"
+play,2,1,giana201,00,X,HR/F7D.3-H(RBI);2-H(RBI);1-H(RBI)
+play,2,1,whitk201,00,,NP
+sub,mackj201,"Jamie Mackay",0,3,1
+play,2,1,whitk201,00,.X,9/F
+play,2,1,kapls201,12,CBCX,43/G
+play,3,0,lansa201,00,X,S8/G
+play,3,0,mackj201,00,1X,S7/G.1-3(E7);B-2
+com,"$Bobble on the attempted pickup by LF"
+play,3,0,eynoc201,10,BX,S5/G.3-H(RBI);2-2
+com,"$Very slow grounder, batter just barely beat the throw"
+play,3,0,villi201,00,X,9/F.2-3(E6)
+com,"$SS mistimed the catch and the throw from the RF hit her on the head"
+play,3,0,rochm201,00,X,6/L
+com,"$Over-the-shoulder catch"
+play,3,0,edwas201,00,X,6/L
+com,"$Also an over-the-shoulder catch, exactly akin to the previous one"
+play,3,1,lebla201,31,BCBBB,W
+play,3,1,albaj201,00,X,8/F
+play,3,1,jorga201,22,CBBFFX,S9/G.1-2
+play,3,1,parkj201,01,CX,8/F
+play,3,1,leguj201,00,X,D7/F.2-H(RBI);1-3
+com,"$One-hopped off of the wall; relay to the 3B went very wide but runners held"
+play,3,1,daybe201,11,FBX,S9/G.3-H(RBI);2-3
+play,3,1,giana201,02,TCS,K
+play,4,0,foxxm201,20,BBX,S8/L
+play,4,0,davim201,22,BBCFFB,WP.1-2
+play,4,0,davim201,32,BBCFFB.C,K/C
+play,4,0,shima201,00,B,PB.2-3
+play,4,0,shima201,22,B.CFBX,S9/L.3-H(RBI)(UR)
+play,4,0,lansa201,01,1CX,5(B)3(1)/LDP/L
+play,4,1,whitk201,22,BBFCX,5/L
+com,"$Beautiful diving catch"
+play,4,1,kapls201,11,BCX,7/F
+play,4,1,lebla201,11,BCX,43/G
+play,5,0,mackj201,11,BCX,13/G
+play,5,0,eynoc201,00,X,S7/L
+play,5,0,villi201,32,B1BBCFFX,S7/L.1-2
+play,5,0,rochm201,32,BBBCFB,W.2-3;1-2
+play,5,0,edwas201,11,BCX,S9/G.3-H(RBI);2-3;1-2
+play,5,0,foxxm201,21,CBB1,OA.3-H(E1/TH1)(NR)(UR);2-3
+com,"$Low pickoff throw hit the runner and bounced away"
+play,5,0,foxxm201,32,CBB1.BFFX,64(1)3/GDP/G
+play,5,1,albaj201,32,BFCBBX,S8/L
+com,"$To the wall"
+play,5,1,jorga201,00,H,HP.1-2
+com,"$Mackay and Edwards exchange a few words with Jorge"
+play,5,1,parkj201,32,CBBBCFS,K+WP.2-3;1-2
+play,5,1,leguj201,12,BCSC,K/C
+play,5,1,daybe201,02,SCS,K
+play,6,0,davim201,00,,NP
+sub,delcr201,"Rosi Del Castillo",1,9,1
+play,6,0,davim201,00,.,NP
+sub,whitk201,"Kelsie Whitmore",1,2,8
+play,6,0,davim201,12,..CCBX,D7/L
+play,6,0,shima201,00,X,S1/BG.2-3
+com,"$Del Castillo's knee gave way during the fielding attempt, she was carted off with an injury"
+play,6,0,lansa201,00,,NP
+sub,gildl201,"Liz Gilder",1,9,1
+play,6,0,lansa201,22,.BFBFX,D7/G.3-H(RBI);1-3
+com,"$Down the LF line into the corner"
+play,6,0,mackj201,00,H,HP
+play,6,0,eynoc201,00,X,8/F/SF.3-H(RBI)
+play,6,0,villi201,02,FSS,K
+play,6,0,rochm201,01,FB,WP.2-3;1-2
+play,6,0,rochm201,22,FB.BCFS,K
+play,6,1,giana201,00,,NP
+sub,ibard201,"Diana Ibarra",0,5,7
+play,6,1,giana201,02,.CCFS,K
+play,6,1,whitk201,00,X,7/F
+com,"$Right at the wall, just missed being a home run"
+play,6,1,kapls201,00,X,5/P
+play,7,0,edwas201,00,,NP
+sub,corip201,"Peyton Coria",1,9,1
+play,7,0,edwas201,31,.BCBBB,W
+play,7,0,foxxm201,11,BC>B,SB2
+play,7,0,foxxm201,31,BC>B.BX,8/F
+play,7,0,davim201,01,CX,9/F.2-3
+com,"$RF slipped initially, but recovered to make the out"
+play,7,0,shima201,30,BBBX,9/F
+play,7,1,lebla201,21,BCBX,43/G
+play,7,1,albaj201,00,X,8/F
+play,7,1,jorga201,20,BBX,4/P
+data,er,honda201,4
+data,er,mackj201,2
+data,er,whitk201,3
+data,er,delcr201,2
+data,er,gildl201,0
+data,er,corip201,0
+id,SFF202609170
+info,visteam,LAQ
+info,hometeam,SFF
+info,site,SPR03
+info,date,2026/09/17
+info,number,0
+info,gametype,final
+info,starttime,6:00PM
+info,daynight,night
+info,innings,7
+info,umphome,beras701
+info,ump1b,mckej701
+info,ump3b,dinek701
+info,temp,96
+info,winddir,ltor
+info,fieldcond,dry
+info,precip,none
+info,sky,cloudy
+info,timeofgame,162
+info,wp,satoa201
+info,lp,albaj201
+info,save,(none)
+start,shima201,"Ayuri Shimano",0,1,4
+start,lansa201,"Ashton Lansdell",0,2,5
+start,mackj201,"Jamie Mackay",0,3,10
+start,eynoc201,"Caitlin Eynon",0,4,6
+start,edwas201,"Sarah Edwards",0,5,3
+start,foxxm201,"Maggie Foxx",0,6,2
+start,honda201,"Amira Hondras",0,7,9
+start,ibard201,"Diana Ibarra",0,8,7
+start,davim201,"Mo'ne Davis",0,9,8
+start,villi201,"Isabella Villarreal",0,0,1
+start,giana201,"Amanda Gianelloni",1,1,4
+start,whitk201,"Kelsie Whitmore",1,2,8
+start,kapls201,"Skylar Kaplan",1,3,9
+start,lebla201,"Andreanne Leblanc",1,4,3
+start,jorga201,"Alexia Jorge",1,5,10
+start,parkj201,"Jua Park",1,6,7
+start,gutis201,"Samantha Gutierrez",1,7,2
+start,leguj201,"Joely Leguizamon",1,8,6
+start,yamaa201,"Ayaka Yamamoto",1,9,5
+start,albaj201,"Jill Albayati",1,0,1
+play,1,0,shima201,22,CBBCS,K.B-1(2E3)
+com,"$1B Leblanc set up inside, ball went outside and Leblanc couldn't glove it"
+play,1,0,lansa201,00,X,8/F
+play,1,0,mackj201,21,B1SB>B,SB2
+play,1,0,mackj201,32,B1SB>B.FS,K
+play,1,0,eynoc201,22,BSCBFX,8/L
+com,"$Stellar sliding catch by Whitmore"
+play,1,1,giana201,22,BBCFFX,63/G
+play,1,1,whitk201,11,FBX,63/G
+play,1,1,kapls201,10,BX,9/L
+play,2,0,edwas201,32,BCBBCX,43/G
+play,2,0,foxxm201,20,BBX,HR/F7D
+play,2,0,honda201,10,BX,43/G
+play,2,0,ibard201,12,CCBX,53/G
+com,"$Good snag by the 3B, long throw took Leblanc into Ibarra's path and they softly collided at the bag"
+play,2,1,lebla201,32,BCFBFFBFX,S8/F
+com,"$CF Davis almost caught it on the long run but the ball popped out of her glove"
+play,2,1,jorga201,21,CBBX,4/P
+play,2,1,parkj201,00,X,S7/L.1-3(E7);B-2
+com,"$Ball got by the LF"
+play,2,1,gutis201,01,FX,S7/L.3-H(RBI);2-H(RBI)(UR)
+play,2,1,leguj201,20,1BBX,54(1)/FO/G
+com,"$Stellar diving catch, followed by the tag application"
+play,2,1,yamaa201,00,1>B,CS2(24)
+com,"$Pickoff throw was initially ruled an out, this was reversed only for the runner to be caught on the first pitch"
+play,3,0,davim201,21,CBBX,63/G
+com,"$On the tag application"
+play,3,0,shima201,10,BX,S8/L
+play,3,0,lansa201,11,BF>B,SB2
+com,"$Throw to 2nd bounced high and got away, but CF backed up play to prevent advance"
+play,3,0,lansa201,21,BF>B.X,43/G.2-3
+play,3,0,mackj201,30,BBBX,8/L
+play,3,1,yamaa201,00,,NP
+sub,satoa201,"Ayami Sato",0,0,1
+play,3,1,yamaa201,01,.CX,S8/L
+play,3,1,giana201,30,BBBB,W.1-2
+play,3,1,whitk201,01,SX,8/F
+play,3,1,kapls201,32,BCBBCB,W.2-3;1-2
+play,3,1,lebla201,22,BCFBFX,S9/G.3-H(RBI);2-H(RBI);1-2
+com,"$Under the glove of the 1B"
+play,3,1,jorga201,10,BX,6/P/IF
+play,3,1,parkj201,02,CCX,8/F
+play,4,0,eynoc201,12,BCFX,S7/L
+play,4,0,edwas201,00,X,S8/G.1-2
+com,"$Took a heavy ricochet off 2nd base into center field"
+play,4,0,foxxm201,31,FBBBB,W.2-3;1-2
+play,4,0,honda201,02,CFB,WP.3-H(NR);2-3;1-2
+play,4,0,honda201,12,CFB.X,S9/G.3-H(RBI);2-3
+com,"$Past the diving 2B"
+play,4,0,ibard201,00,,NP
+sub,corip201,"Peyton Coria",1,0,1
+play,4,0,ibard201,00,.>B,SB2
+com,"$Ball cut off by 2B in case of attempted steal by runner on 3rd"
+play,4,0,ibard201,32,.>B.CBBCB,W
+play,4,0,davim201,02,CFX,FC1/G.3-H(E1)(NR)(UR);2-3;1-2;B-1
+com,"$Soft grounder, ball was extensively bobbled by Coria"
+play,4,0,shima201,10,BX,HR/F7D.3-H(RBI);2-H(RBI);1-H(RBI)
+play,4,0,lansa201,32,FBBSBX,E5/TH1/G
+com,"$Low throw deflected off of the 1B's glove"
+play,4,0,mackj201,00,>C,SB2
+play,4,0,mackj201,02,>C.FX,53/G.2-3
+play,4,0,eynoc201,32,BBBCCB,W
+play,4,0,edwas201,00,,NP
+sub,daybe201,"Ela Day-Bedard",1,0,1
+play,4,0,edwas201,00,.X,7/F.3-H(E2)(NR)(UR);1-2
+com,"$Throw to the catcher went under her glove"
+play,4,0,foxxm201,00,X,S8/G.2-H(RBI)(UR)
+play,4,0,honda201,00,X,D9/F.1-H(96E2)(NR)(UR)
+com,"$To the wall, relay throw had the runner from first well beat but the catcher fumbled the catch"
+play,4,0,ibard201,11,BCH,HP
+com,"$The throw caught Ibarra flush on the shoulder"
+play,4,0,davim201,10,B>C,SB3
+play,4,0,davim201,11,B>C.S,2/BINT
+com,"$Davis swung hard, as she was recovering her balance the catcher made an attempted pickoff throw to 3rd"
+com,"$During the attempt, the catcher's hand hit Davis on the helmet, and Davis was ruled out for interference"
+play,4,1,gutis201,12,CSBX,S7/G
+play,4,1,leguj201,02,CFX,S7/L.1-2
+play,4,1,yamaa201,12,CFBS,K
+play,4,1,giana201,32,BFCBBFB,W.2-3;1-2
+play,4,1,whitk201,32,CBCBBS,K
+play,4,1,kapls201,12,CCBC,K/C
+play,5,0,shima201,01,FX,6E3/G
+com,"$Nice catch and throw on the ball up the middle, but 1B couldn't glove it properly"
+play,5,0,lansa201,11,CBX,8/F
+play,5,0,mackj201,10,B>C,SB2
+play,5,0,mackj201,11,B>C.X,8/F
+com,"$In left field on the long run by Whitmore"
+play,5,0,eynoc201,20,BBX,9/F
+play,5,1,lebla201,11,BCX,S4/G
+com,"$2B did a great job stopping the ball but could not make a throw"
+play,5,1,jorga201,32,CSFBFBFBFFB,W.1-2
+play,5,1,parkj201,02,FCS,K+PB.2-3;1-2
+play,5,1,gutis201,11,BCX,S9/F.3-H(RBI);2-3
+com,"$1B, 2B, and RF all converged, RF slid hard for the catch but couldn't quite make it"
+play,5,1,leguj201,10,BX,8/L/SF.3-H(RBI)(UR)
+play,5,1,yamaa201,22,CBFBX,S8/L.1-2
+com,"$Just got past the 2B"
+play,5,1,giana201,12,FBTFX,9/F
+com,"$Sliding catch"
+play,6,0,edwas201,10,BX,7/L
+com,"$Stellar sliding catch by Park"
+play,6,0,foxxm201,00,X,S7/L
+play,6,0,honda201,00,X,8/L
+com,"$Another stellar catch, this time on the run by Whitmore"
+play,6,0,ibard201,32,BBBCC1B,W.1-2
+com,"$Pick attmpt got away and hit 1B umpire Janet Thomas McKeen on the thigh"
+com,"$No runner advance and umpire stayed in though it was painful"
+play,6,0,davim201,11,CBX,64(1)/FO/G
+play,6,1,whitk201,22,BBFCS,K
+play,6,1,kapls201,00,X,D8/L
+com,"$To the wall"
+play,6,1,lebla201,01,CX,D7/G.2-H(RBI)
+com,"$Also to the wall"
+play,6,1,jorga201,02,CFX,31/G.2-3
+play,6,1,parkj201,01,SX,9/F/FL
+com,"$Near the corner, just foul"
+play,7,0,shima201,00,,NP
+sub,lebla201,"Andreanne Leblanc",1,4,1
+play,7,0,shima201,00,.,NP
+sub,kapls201,"Skylar Kaplan",1,3,3
+play,7,0,shima201,00,..,NP
+sub,eystj201,"Jordan Eyster",1,5,9
+play,7,0,shima201,10,...BX,S1/BG
+play,7,0,lansa201,02,1CFX,S5/G.1-2
+com,"$Very slow grounder"
+play,7,0,mackj201,31,FBBBX,64(1)3/GDP/G.2-3
+play,7,0,eynoc201,31,BBBCB,W
+play,7,0,edwas201,20,B>B+3,SB2
+play,7,0,edwas201,30,B>B+3.BB,W
+play,7,0,foxxm201,22,BCBFX,8/F
+play,7,1,gutis201,00,,NP
+sub,meidm201,"Meggie Meidlinger",0,0,1
+play,7,1,gutis201,01,.CX,S7/G
+play,7,1,leguj201,22,1CBFBC,K/C
+play,7,1,yamaa201,01,CX,54(1)/FO/G
+com,"$Stellar sliding catch to get the forceout, not in time to get the diving Yamamoto"
+com,"$Yamamoto was checked out for injury as she suffered a nosebleed from her detached helmet hitting her face"
+play,7,1,giana201,00,X,7/L
+com,"$Yet another stellar catch on the slide by Ibarra"
+data,er,villi201,1
+data,er,satoa201,4
+data,er,meidm201,0
+data,er,albaj201,4
+data,er,corip201,3
+data,er,daybe201,0
+data,er,lebla201,0
+id,LAQ202609190
+info,visteam,SFF
+info,hometeam,LAQ
+info,site,SPR03
+info,date,2026/09/19
+info,number,0
+info,gametype,final
+info,starttime,6:00PM
+info,daynight,night
+info,innings,7
+info,umphome,dinek701
+info,ump1b,beras701
+info,ump3b,monaa701
+info,temp,82
+info,winddir,unknown
+info,fieldcond,dry
+info,precip,none
+info,sky,overcast
+info,timeofgame,135
+info,wp,ecken201
+info,lp,rochm201
+info,save,gildl201
+start,giana201,"Amanda Gianelloni",0,1,4
+start,whitk201,"Kelsie Whitmore",0,2,8
+start,kapls201,"Skylar Kaplan",0,3,9
+start,lebla201,"Andreanne Leblanc",0,4,3
+start,albaj201,"Jill Albayati",0,5,5
+start,jorga201,"Alexia Jorge",0,6,2
+start,gutis201,"Samantha Gutierrez",0,7,10
+start,parkj201,"Jua Park",0,8,7
+start,leguj201,"Joely Leguizamon",0,9,6
+start,ecken201,"Niki Eckert",0,0,1
+start,shima201,"Ayuri Shimano",1,1,4
+start,lansa201,"Ashton Lansdell",1,2,5
+start,mackj201,"Jamie Mackay",1,3,2
+start,eynoc201,"Caitlin Eynon",1,4,6
+start,edwas201,"Sarah Edwards",1,5,3
+start,foxxm201,"Maggie Foxx",1,6,10
+start,villi201,"Isabella Villarreal",1,7,7
+start,honda201,"Amira Hondras",1,8,9
+start,davim201,"Mo'ne Davis",1,9,8
+start,rochm201,"Michelle Roche",1,0,1
+play,1,0,giana201,20,BBX,D7/L
+play,1,0,whitk201,10,BX,S8/G.2-H(RBI);B-2
+play,1,0,kapls201,00,X,S7/L.2-H(RBI)
+play,1,0,lebla201,01,CX,4/F
+play,1,0,albaj201,11,CBX,8/F
+play,1,0,jorga201,01,FH,HP.1-2
+play,1,0,gutis201,01,SX,S8/G.2-H(RBI);1-2
+play,1,0,parkj201,11,BCX,53/G
+play,1,1,shima201,31,CBBBB,W
+play,1,1,lansa201,31,B1BCB>C,SB2
+play,1,1,lansa201,32,B1BCB>C.X,13/G.2-3
+play,1,1,mackj201,22,BBFFFS,K
+play,1,1,eynoc201,21,BFBX,9/F
+com,"$Right in front of the wall"
+play,2,0,leguj201,01,CX,HR/F7D
+play,2,0,giana201,22,SBBFX,S8/G
+play,2,0,whitk201,01,1FX,S8/F.1-2
+play,2,0,kapls201,00,X,S3/G.2-3;1-2
+com,"$Ball down the 1B line, Edwards did a good job getting to it but hesitated on the fair/foul call and Kaplan dove in on time"
+play,2,0,lebla201,12,BFFX,S8/L.3-H(RBI);2-H(RBI);1-2
+play,2,0,albaj201,02,CFX,S7/L.2-H(RBI);1-2
+com,"$To the wall"
+play,2,0,jorga201,22,BFBCX,5(2)4(1)/GDP/G
+play,2,0,gutis201,00,X,63/G
+play,2,1,edwas201,20,BBX,3/G
+play,2,1,foxxm201,31,BBBCX,S9/L
+play,2,1,villi201,01,CX,43/G.1-2
+com,"$Very high bounce on the grounder over the pitcher's head"
+play,2,1,honda201,32,BBBCSX,S6/G.2-3
+com,"$Slow grounder and a bobbled on the transfer"
+play,2,1,davim201,12,CBCS,K
+play,3,0,parkj201,12,FBCX,63/G
+play,3,0,leguj201,00,X,D7/L
+com,"$Right down the LF line into the corner"
+play,3,0,giana201,22,BBF2SFFFX,7/F.2-3
+play,3,0,whitk201,30,VVVV,I
+play,3,0,kapls201,00,X,63/L
+com,"$Short liner up the middle, nice throw just beat the runner"
+play,3,1,shima201,30,BBBB,W
+play,3,1,lansa201,01,1SX,4/L.1-2(E4/TH1)
+com,"$Great sliding play on the low liner but the throw to 1st got between Shimano and the 1B and went out of play"
+play,3,1,mackj201,00,X,HR/F7D.2-H(RBI)
+play,3,1,eynoc201,12,BCCX,53/G
+com,"Feed cut out before plate appearance and returned for strike 2, two pitches taken directly from official PBP"
+play,3,1,edwas201,22,BCCBX,8/F
+com,"Feed cut out after strike 1 and returned for the out, two pitches taken directly from official PBP"
+play,4,0,lebla201,00,,NP
+sub,villi201,"Isabella Villarreal",1,7,1
+play,4,0,lebla201,00,.,NP
+sub,foxxm201,"Maggie Foxx",1,6,7
+play,4,0,lebla201,30,..BBBB,W
+play,4,0,albaj201,00,X,S7/F.1-2
+play,4,0,jorga201,01,CH,HP.2-3;1-2
+play,4,0,gutis201,01,CX,9(B)23(1)/FDP/F
+com,"$Jorge took off well in advance likely thinking the ball wouldn't be caught, and was easily doubled off"
+com,"$No other runners attempted an advance"
+play,4,0,parkj201,00,X,S8/F.3-H(RBI);2-H(RBI)
+com,"$CF seemed to completely lose the ball in the lights"
+play,4,0,leguj201,22,BCBFS,K
+play,4,1,foxxm201,11,BFX,S8/F.BX2(84)
+com,"$Bounced off the top of the wall a quick throw and tag just barelly nabbed Foxx"
+play,4,1,villi201,11,BFX,6/L
+play,4,1,honda201,32,BBCSFFFBX,S8/G
+play,4,1,davim201,00,X,4(1)/FO/G
+play,5,0,giana201,00,,NP
+sub,ibard201,"Diana Ibarra",1,9,8
+play,5,0,giana201,01,.CX,4/F
+play,5,0,whitk201,12,BFFS,K
+play,5,0,kapls201,01,FX,S8/G
+play,5,0,lebla201,21,BCBX,S9/G.1-2
+play,5,0,albaj201,11,SBX,9/F
+com,"$Strike 1 on the check swing"
+play,5,1,shima201,00,,NP
+sub,gildl201,"Liz Gilder",0,0,1
+play,5,1,shima201,30,.BBBB,W
+play,5,1,lansa201,32,BBFBSB,W.1-2
+play,5,1,mackj201,02,CSS,K
+play,5,1,eynoc201,00,>B,SB3;SB2
+play,5,1,eynoc201,10,>B.X,S8/L.3-H(RBI);2-3
+play,5,1,edwas201,31,BCBBB,W.1-2
+play,5,1,foxxm201,01,CX,64(1)/FO/G.3-H(RBI);2-H(E4/TH1)(NR)
+com,"$Throw to 1st went wide"
+play,5,1,villi201,10,BX,S7/L.1-2
+play,5,1,honda201,10,BH,HP.2-3;1-2
+play,5,1,ibard201,12,CFBX,1/P
+com,"$Foul ball was almost caught by Leblanc"
+play,6,0,jorga201,32,BBBCFFFB,W
+play,6,0,gutis201,00,X,S8/L.1-2
+play,6,0,parkj201,11,CBX,S9/L.2-3;1-2
+play,6,0,leguj201,00,X,3/P/FL
+play,6,0,giana201,10,BX,7/F/SF.3-H(RBI)
+play,6,0,whitk201,00,X,6/P
+play,6,1,shima201,32,FCBBBS,K.BX1(23)
+play,6,1,lansa201,00,X,S7/L
+play,6,1,mackj201,02,1FFX,S6/G.1X3(654)
+com,"$Ground ball took a very high hop and deflected offZ the shortstop, but the 3B backed up the play"
+com,"$Noticing that the runner from 1st had rounded too far, the 3B threw to the 2B to get the out on the tag"
+play,6,1,eynoc201,30,BBBB,W.1-2
+play,6,1,edwas201,32,SBFBBB,W.2-3;1-2
+com,"$Ball three, upon replay, appeared to be a swing and dropped third strike."
+com,"$However, call was explicitly held as no swing on appeal to 1B"
+play,6,1,foxxm201,02,SCS,K
+play,7,0,kapls201,32,FBBBFB,W
+play,7,0,lebla201,01,CX,5/P/FL
+play,7,0,albaj201,00,X,8/F
+play,7,0,jorga201,10,BX,54(1)/FO/G
+play,7,1,villi201,11,BFX,53/G
+play,7,1,honda201,00,X,S8/L
+play,7,1,ibard201,00,,NP
+sub,baira201,"Addisyn Baird",1,9,11
+play,7,1,baira201,01,.CB,PB.1-2
+com,"$Passed ball hit the home plate umpire"
+play,7,1,baira201,22,.CB.BCX,8/F
+play,7,1,shima201,12,FCBX,3/G
+data,er,ecken201,2
+data,er,gildl201,3
+data,er,rochm201,7
+data,er,villi201,3
+id,LAQ202609200
+info,visteam,SFF
+info,hometeam,LAQ
+info,site,SPR03
+info,date,2026/09/20
+info,number,0
+info,gametype,final
+info,starttime,3:00PM
+info,daynight,day
+info,innings,7
+info,umphome,monaa701
+info,ump1b,dinek701
+info,ump3b,beras701
+info,temp,84
+info,winddir,torf
+info,fieldcond,dry
+info,precip,none
+info,sky,cloudy
+info,timeofgame,159
+info,wp,whitk201
+info,lp,mackj201
+info,save,(none)
+start,giana201,"Amanda Gianelloni",0,1,4
+start,whitk201,"Kelsie Whitmore",0,2,1
+start,kapls201,"Skylar Kaplan",0,3,9
+start,lebla201,"Andreanne Leblanc",0,4,3
+start,albaj201,"Jill Albayati",0,5,5
+start,jorga201,"Alexia Jorge",0,6,2
+start,parkj201,"Jua Park",0,7,7
+start,leguj201,"Joely Leguizamon",0,8,6
+start,daybe201,"Ela Day-Bedard",0,9,8
+start,shima201,"Ayuri Shimano",1,1,1
+start,lansa201,"Ashton Lansdell",1,2,5
+start,mackj201,"Jamie Mackay",1,3,9
+start,eynoc201,"Caitlin Eynon",1,4,6
+start,foxxm201,"Maggie Foxx",1,5,2
+start,edwas201,"Sarah Edwards",1,6,3
+start,villi201,"Isabella Villarreal",1,7,7
+start,honda201,"Amira Hondras",1,8,4
+start,davim201,"Mo'ne Davis",1,9,8
+play,1,0,giana201,30,BBBB,W
+play,1,0,whitk201,30,BBBB,W.1-2
+play,1,0,kapls201,12,CFBX,4/P/IF
+play,1,0,lebla201,32,BCBSVFB,W.2-3;1-2
+play,1,0,albaj201,12,TFFBX,S8/L.3-H(RBI);2-H(RBI);1-2
+play,1,0,jorga201,32,BBB+2CCX,46(1)3/GDP/G
+play,1,1,shima201,11,CBX,3/G
+play,1,1,lansa201,01,SX,E6/G
+com,"$Ball skipped over shortstop's glove into left field"
+play,1,1,mackj201,01,C>B,SB2
+play,1,1,mackj201,12,C>B.FX,53/G.2-2
+play,1,1,eynoc201,01,CX,63/G
+play,2,0,parkj201,02,CCFX,E6/TH1/G
+com,"$Slow liner bounced at the dirt right by the shortstop's glove"
+com,"$Her throw to the 1B was quick but could not be caught"
+play,2,0,leguj201,11,FBX,S9/F.1-2
+com,"$Dropped right in the gap between CF and RF"
+play,2,0,daybe201,22,FBCBS,K
+com,"$Foul ball hit Day-Bedard on the very top of the helmet and went wild"
+com,"$However, it was called a foul ball either because no umps could definitively tell"
+com,"$Or because they thought Day-Bedard had offered (she was in bunt stance)"
+play,2,0,giana201,01,SX,65(2)/G
+com,"$Excellent play on the running catch and throw near 3rd base"
+play,2,0,whitk201,11,TBX,5/P/FL
+play,2,1,foxxm201,00,X,S9/F
+com,"$Kaplan could not quite make the catch perhaps thinking she was running out of room"
+com,"$Ball hit at the bottom of the wall"
+play,2,1,edwas201,32,BBCCFBX,S8/L.1-2
+play,2,1,villi201,11,BCX,9/F
+play,2,1,honda201,02,CTS,K
+play,2,1,davim201,12,CFBX,S4/G.2-3;1-2
+com,"$2B prevented the ball up the middle from getting to the outfield, stopping further advance"
+com,"$However, there was no play to be made anywhere"
+play,2,1,shima201,32,CBFFBBFB,W.3-H(RBI);2-3;1-2
+play,2,1,lansa201,10,BX,S8/G.3-H(RBI);2-H(RBI);1-3(E8/TH)
+com,"$Ball took a hop over the 2B, who had either slid or slipped to her knees"
+com,"$The relay throw to the 1B got away, allowing additional advance"
+play,2,1,mackj201,02,FF1FX,7/F
+play,3,0,kapls201,10,BX,9/L
+play,3,0,lebla201,10,BX,HR/F9D
+play,3,0,albaj201,00,,NP
+sub,shima201,"Ayuri Shimano",1,1,4
+play,3,0,albaj201,00,.,NP
+sub,honda201,"Amira Hondras",1,8,9
+play,3,0,albaj201,00,..,NP
+sub,mackj201,"Jamie Mackay",1,3,1
+play,3,0,albaj201,01,...CX,S8/G
+play,3,0,jorga201,30,BBBX,54(1)/FO/G
+com,"$Excellent diving catch by Lansdell, Shimano juggled the ball a bit preventing a DP but got th out"
+play,3,0,parkj201,12,CCBX,E5/G.1-2
+com,"$Very slow grounder, the running 3B could not grab the ball, which also went by the SS into left"
+play,3,0,leguj201,32,BBCBCX,D9/L.2-H(RBI)(UR);1-H(RBI)(UR)
+com,"$Just past the running RF, to the wall"
+play,3,0,daybe201,02,CCH,HP
+play,3,0,giana201,12,CBFS,K
+play,3,1,eynoc201,00,,NP
+sub,daybe201,"Ela Day-Bedard",0,9,1
+play,3,1,eynoc201,00,.,NP
+sub,whitk201,"Kelsie Whitmore",0,2,8
+play,3,1,eynoc201,00,..X,8/F
+play,3,1,foxxm201,01,CX,D7/G
+com,"$Down the LF line into the corner"
+play,3,1,edwas201,31,CBBBB,W
+play,3,1,villi201,31,BBBCB,W.2-3;1-2
+play,3,1,honda201,02,CFX,8/F/SF.3-H(RBI)
+play,3,1,davim201,22,BCSFFFBFX,8/F
+play,4,0,whitk201,10,BX,S7/G
+play,4,0,kapls201,20,BBX,FC6/G.1-2(E6);B-1
+com,"$Bobbled catch"
+play,4,0,lebla201,12,BCSX,5(2)/FO/G
+com,"$Throw to first could not be gloved"
+play,4,0,albaj201,01,FX,S4/F.2-3;1-2
+com,"$1B, 2B, and RF all converged on the ball down the RF line but none could make it, 2B came closest"
+play,4,0,jorga201,12,BCCFX,D7/L.3-H(RBI)(UR);2-H(RBI);1-3
+com,"$Down the LF line"
+play,4,0,parkj201,12,FBFX,D9/L.3-H(RBI);2-H(RBI);B-3(E4/THH)
+com,"$Relay throw to home was wide, catcher Foxx dove for the ball but couldn't reach it and faceplanted"
+com,"$Foxx was somewhat slow to get up but was ultimately fine"
+play,4,0,leguj201,00,,NP
+sub,mackj201,"Jamie Mackay",1,3,9
+play,4,0,leguj201,00,.,NP
+sub,meidm201,"Meggie Meidlinger",1,8,1
+play,4,0,leguj201,11,..SBX,S7/F.3-H(RBI)(UR)
+com,"$Ball fell between SS and LF"
+play,4,0,daybe201,12,1FCFFBX,53/G.1-2
+play,4,0,giana201,01,FX,S9/F.2-H(RBI)(UR)
+play,4,0,whitk201,22,BCBFFFX,S9/F.1-3
+play,4,0,kapls201,31,1BBBCX,T7/F.3-H(RBI)(UR);1-H(NR)(UR)
+com,"$LF dove for the ball but missed it, ball went into the corner"
+play,4,0,lebla201,32,CBBBFX,5/P/FL
+play,4,1,shima201,12,FFBX,31/G
+play,4,1,lansa201,32,CBBFBFS,K
+play,4,1,mackj201,01,FX,8/F
+play,5,0,albaj201,00,,NP
+sub,baira201,"Addisyn Baird",1,8,1
+play,5,0,albaj201,00,.,NP
+sub,frana201,"Addie Frank",1,6,3
+play,5,0,albaj201,11,..BCX,8/F
+play,5,0,jorga201,00,X,3/P/FL
+play,5,0,parkj201,10,BH,HP
+play,5,0,leguj201,00,X,S7/G.1-2
+play,5,0,daybe201,30,BBBB,W.2-3;1-2
+play,5,0,giana201,00,X,64(1)/FO/G
+play,5,1,eynoc201,22,FCFBBX,S7/G
+play,5,1,foxxm201,22,FBC+1BFX,S7/L.1-2
+play,5,1,frana201,21,BCBX,36(1)1/GDP/G.2-3
+play,5,1,villi201,10,BX,8/F
+play,6,0,whitk201,00,,NP
+sub,ibard201,"Diana Ibarra",1,7,7
+play,6,0,whitk201,10,.BX,E6/TH1/G
+com,"$Dropped throw at first"
+play,6,0,kapls201,30,BBBB,W.1-2
+play,6,0,lebla201,32,CBBFBX,9/F.2-3
+play,6,0,albaj201,31,BBBCX,S7/L.3-H(RBI)(UR);1-3
+com,"$Down the LF line into the corner"
+play,6,0,jorga201,00,X,S7/L.3-H(RBI);1-2
+play,6,0,parkj201,20,BBX,D8/F.2-H(RBI);1-3
+com,"$To the wall"
+play,6,0,leguj201,20,BBX,8/F/SF.3-H(RBI)(UR)
+com,"$Runner on second hesitated and was almost caught at second but slid back in just in time"
+play,6,0,daybe201,00,X,1/L
+play,6,1,baira201,00,,NP
+sub,corip201,"Peyton Coria",0,9,1
+play,6,1,baira201,21,.CBBX,1/P
+play,6,1,davim201,12,BCCFC,K/C
+play,6,1,shima201,00,X,4/P
+play,7,0,giana201,00,X,8/F
+com,"$Both the LF and CF went for the ball and collided, but luckily it was not hard and there were no injuries"
+play,7,0,whitk201,30,BBBB,W
+play,7,0,kapls201,10,BX,43/G.1-2
+play,7,0,lebla201,01,CX,8/F
+play,7,1,lansa201,10,BH,HP
+play,7,1,mackj201,12,BCFX,S9/G.1-2
+play,7,1,eynoc201,22,BCFFBX,4/P/IF
+play,7,1,foxxm201,00,X,64(1)3/GDP/G
+data,er,whitk201,3
+data,er,daybe201,1
+data,er,corip201,0
+data,er,shima201,3
+data,er,mackj201,3
+data,er,meidm201,0
+data,er,baira201,2
+id,SFF202609220
+info,visteam,LAQ
+info,hometeam,SFF
+info,site,SPR03
+info,date,2026/09/22
+info,number,0
+info,gametype,final
+info,starttime,6:00PM
+info,daynight,night
+info,innings,7
+info,umphome,dinek701
+info,ump1b,beras701
+info,ump3b,monaa701
+info,temp,68
+info,winddir,ltor
+info,fieldcond,dry
+info,precip,none
+info,sky,cloudy
+info,timeofgame,99
+info,wp,satoa201
+info,lp,albaj201
+info,save,(none)
+start,shima201,"Ayuri Shimano",0,1,6
+start,lansa201,"Ashton Lansdell",0,2,5
+start,mackj201,"Jamie Mackay",0,3,2
+start,eynoc201,"Caitlin Eynon",0,4,10
+start,foxxm201,"Maggie Foxx",0,5,9
+start,honda201,"Amira Hondras",0,6,4
+start,edwas201,"Sarah Edwards",0,7,3
+start,ibard201,"Diana Ibarra",0,8,7
+start,davim201,"Mo'ne Davis",0,9,8
+start,satoa201,"Ayami Sato",0,0,1
+start,giana201,"Amanda Gianelloni",1,1,4
+start,whitk201,"Kelsie Whitmore",1,2,8
+start,kapls201,"Skylar Kaplan",1,3,9
+start,lebla201,"Andreanne Leblanc",1,4,3
+start,albaj201,"Jill Albayati",1,5,1
+start,jorga201,"Alexia Jorge",1,6,2
+start,parkj201,"Jua Park",1,7,7
+start,leguj201,"Joely Leguizamon",1,8,6
+start,yamaa201,"Ayaka Yamamoto",1,9,5
+play,1,0,shima201,02,CSS,K
+play,1,0,lansa201,31,BBBCX,7/F
+play,1,0,mackj201,10,BX,43/G
+com,"$Very slow grounder"
+play,1,1,giana201,11,BCX,53/G
+play,1,1,whitk201,00,X,S8/L
+play,1,1,kapls201,21,BFBX,46(1)3/GDP/G
+com,"$Replay indicates Kaplan beat the throw to 1st, but no replay available"
+play,2,0,eynoc201,32,BBCFBC,K/C
+com,"$Eynon thought the last pitch was a ball and started jogging to 1st"
+play,2,0,foxxm201,00,X,4/L
+play,2,0,honda201,00,X,4/P
+play,2,1,lebla201,22,CFBFBX,43/G
+play,2,1,albaj201,32,BBBCFX,S7/L
+play,2,1,jorga201,01,CX,6/L
+play,2,1,parkj201,10,BX,53/G
+play,3,0,edwas201,31,BCBBB,W
+play,3,0,ibard201,00,X,E4/P.1-2
+com,"$2B shifted back down the slope of the turtleback field to make the play, but missed and tripped"
+com,"$In doing so, she took a tumble and kicked the ball away mid-tumble"
+play,3,0,davim201,22,BCLFBX,S7/L.2-3;1-2
+play,3,0,shima201,00,X,FC3/L.3-H;2-3;1-2(E3);B-1(RBI)(UR)
+com,"$Very hard liner deflected off of Leblanc"
+play,3,0,lansa201,00,X,65(2)/FO/G.3-H(RBI)(UR)
+com,"$SS did a great job getting to the hard-hit ball"
+play,3,0,mackj201,11,BFX,13/G.2-3;1-2
+play,3,0,eynoc201,32,BBCFFBFX,63/G
+play,3,1,leguj201,00,X,53/G
+play,3,1,yamaa201,10,BX,S7/G
+com,"$3B ranged over a bit too far and couldn't grab the ball on the diving effort back"
+play,3,1,giana201,12,BSC1S+1,K
+play,3,1,whitk201,11,BFX,9/F
+com,"$Foul ball hit Mackay squarely in the mask"
+play,4,0,foxxm201,20,BBX,7/F
+play,4,0,honda201,12,BCFS,K
+play,4,0,edwas201,32,BFBCBC,K/C
+play,4,1,kapls201,00,X,4/L
+play,4,1,lebla201,11,CBX,S8/F
+play,4,1,albaj201,00,X,64(1)3/GDP/G
+play,5,0,ibard201,02,FFFX,63/G
+play,5,0,davim201,12,CCBX,8/F
+play,5,0,shima201,32,CBCBBB,W
+play,5,0,lansa201,02,CC>B,SB2
+play,5,0,lansa201,32,CC>B.FBFBB,W
+play,5,0,mackj201,00,,NP
+sub,ecken201,"Niki Eckert",1,9,1
+play,5,0,mackj201,00,.,NP
+sub,albaj201,"Jill Albayati",1,5,5
+play,5,0,mackj201,00,..X,7/L
+play,5,1,jorga201,11,CBX,63/G
+play,5,1,parkj201,10,BX,8/L
+play,5,1,leguj201,22,CBCBFX,8/F
+play,6,0,eynoc201,32,BFBCBX,8/F
+play,6,0,foxxm201,20,BBX,53/G
+com,"$3B initially fumbled the catch, but recovered quickly"
+play,6,0,honda201,11,CBX,4/L
+com,"$Beautiful catch on the run and hop, Gianelloni took a tumble down the turtleback slope"
+play,6,1,ecken201,00,,NP
+sub,gutis201,"Samantha Gutierrez",1,9,11
+play,6,1,gutis201,01,.CX,43/G
+play,6,1,giana201,22,SFBBX,S7/L
+com,"$Strike 1 on the attempted check swing"
+play,6,1,whitk201,00,X,4/P
+play,6,1,kapls201,10,BX,E5/G.1-2
+com,"$Very fast grounder deflected off of the 3B"
+play,6,1,lebla201,02,C2SX,43/G
+play,7,0,edwas201,00,,NP
+sub,gildl201,"Liz Gilder",1,9,1
+play,7,0,edwas201,21,.BCBX,8/L
+play,7,0,ibard201,00,X,4/P
+play,7,0,davim201,02,CCX,S3/G
+com,"$Slow grounder, no play to be made by the pitcher covering 1st"
+play,7,0,shima201,02,CCFH,HP.1-2
+play,7,0,lansa201,00,X,6/L
+play,7,1,albaj201,12,BCFFFX,8/F
+play,7,1,jorga201,20,BBX,6/P
+play,7,1,parkj201,02,CFFX,63/G
+data,er,satoa201,0
+data,er,albaj201,0
+data,er,ecken201,0
+data,er,gildl201,0
