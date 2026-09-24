@@ -10,10 +10,6 @@ info,daynight,night
 info,innings,7
 info,umphome,dinek701
 info,ump1b,mckej701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,72
 info,winddir,ltor
 info,fieldcond,wet
@@ -196,10 +192,6 @@ info,daynight,day
 info,innings,7
 info,umphome,beras701
 info,ump1b,monaa701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,87
 info,winddir,unknown
 info,fieldcond,dry
@@ -382,17 +374,13 @@ info,daynight,night
 info,innings,7
 info,umphome,herpe701
 info,ump1b,delpb701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,82
 info,winddir,unknown
 info,fieldcond,dry
 info,precip,none
 info,sky,cloudy
 info,timeofgame,147
-info,wp,schra201
+info,wp,brico201
 info,lp,ecclc201
 info,save,schig201
 start,hastl201,"Lexi Hastings",0,1,8
@@ -480,7 +468,7 @@ play,5,0,dumam201,22,BCCBX,5/L
 play,5,0,kim-h201,00,X,D9/L.3-H(RBI);1-3
 play,5,0,padgr201,00,,NP
 sub,studl201,"London Studer",1,0,1
-play,5,0,padgr201,22,.BCBF,FLE2
+play,5,0,padgr201,21,.BCBF,FLE2
 com,"$Ball was popped up in fair territory and bounced out of catcher's glove, but it was ruled foul"
 play,5,0,padgr201,22,.BCBFS,K.BX1(23)
 play,5,0,hastl201,32,BFFBBB,W
@@ -549,10 +537,6 @@ info,daynight,day
 info,innings,7
 info,umphome,herpe701
 info,ump1b,mckej701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,85
 info,winddir,tolf
 info,fieldcond,wet
@@ -723,10 +707,6 @@ info,daynight,night
 info,innings,7
 info,umphome,herpe701
 info,ump1b,pullj701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,79
 info,winddir,ltor
 info,fieldcond,wet
@@ -905,18 +885,14 @@ info,daynight,night
 info,innings,7
 info,umphome,liu-s701
 info,ump1b,pullj701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,79
 info,winddir,ltor
 info,fieldcond,dry
 info,precip,none
 info,sky,sunny
 info,timeofgame,133
-info,wp,satoa201
-info,lp,osulc201
+info,wp,osulc201
+info,lp,satoa201
 info,save,(none)
 start,benis201,"Samaria Benitez",0,1,4
 start,lansa201,"Ashton Lansdell",0,2,5
@@ -1075,10 +1051,6 @@ info,daynight,night
 info,innings,7
 info,umphome,hartk701
 info,ump1b,hawkc701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,93
 info,winddir,unknown
 info,fieldcond,dry
