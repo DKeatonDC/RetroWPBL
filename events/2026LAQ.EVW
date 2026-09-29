@@ -10,10 +10,6 @@ info,daynight,night
 info,innings,7
 info,umphome,dinek701
 info,ump1b,beras701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,75
 info,winddir,fromcf
 info,fieldcond,dry
@@ -166,10 +162,6 @@ info,daynight,night
 info,innings,7
 info,umphome,beras701
 info,ump1b,(none)
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,86
 info,winddir,unknown
 info,fieldcond,dry
@@ -327,10 +319,6 @@ info,daynight,night
 info,innings,7
 info,umphome,pullj701
 info,ump1b,herpe701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,82
 info,winddir,tocf
 info,fieldcond,dry
@@ -484,10 +472,6 @@ info,daynight,night
 info,innings,8
 info,umphome,pullj701
 info,ump1b,dinek701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,80
 info,winddir,ltor
 info,fieldcond,dry
@@ -665,10 +649,6 @@ info,daynight,night
 info,innings,7
 info,umphome,pullj701
 info,ump1b,liu-s701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,82
 info,winddir,ltor
 info,fieldcond,dry
@@ -827,10 +807,6 @@ info,daynight,night
 info,innings,7
 info,umphome,pullj701
 info,ump1b,liu-s701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,80
 info,winddir,unknown
 info,fieldcond,dry
@@ -839,7 +815,7 @@ info,sky,overcast
 info,timeofgame,127
 info,wp,shima201
 info,lp,studl201
-info,save,meidm201
+info,save,(none)
 start,yonen201,"Natsuki Yonetani",0,1,9
 start,benid201,"Denae Benites",0,2,2
 start,osulc201,"Claire O'Sullivan",0,3,3
@@ -987,19 +963,15 @@ info,daynight,night
 info,innings,7
 info,umphome,hartk701
 info,ump1b,beras701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,93
 info,winddir,tolf
 info,fieldcond,dry
 info,precip,none
 info,sky,sunny
 info,timeofgame,186
-info,wp,kim-r201
+info,wp,ecclc201
 info,lp,mackj201
-info,save,ecclc201
+info,save,(none)
 start,yonen201,"Natsuki Yonetani",0,1,9
 start,benid201,"Denae Benites",0,2,2
 start,osulc201,"Claire O'Sullivan",0,3,3

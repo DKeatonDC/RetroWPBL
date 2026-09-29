@@ -10,10 +10,6 @@ info,daynight,night
 info,innings,7
 info,umphome,beras701
 info,ump1b,delpb701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,77
 info,winddir,unknown
 info,fieldcond,dry
@@ -191,10 +187,6 @@ info,daynight,night
 info,innings,7
 info,umphome,monaa701
 info,ump1b,delpb701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,83
 info,winddir,unknown
 info,fieldcond,dry
@@ -202,7 +194,7 @@ info,precip,none
 info,sky,sunny
 info,timeofgame,117
 info,wp,albaj201
-info,lp,mackj201
+info,lp,rochm201
 info,save,ecken201
 start,eynoc201,"Caitlin Eynon",0,1,6
 start,foxxm201,"Maggie Foxx",0,2,2
@@ -334,10 +326,6 @@ info,daynight,night
 info,innings,7
 info,umphome,mckej701
 info,ump1b,herpe701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,81
 info,winddir,unknown
 info,fieldcond,dry
@@ -469,10 +457,6 @@ info,daynight,night
 info,innings,7
 info,umphome,mckej701
 info,ump1b,herpe701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,83
 info,winddir,unknown
 info,fieldcond,dry
@@ -623,10 +607,6 @@ info,daynight,night
 info,innings,6
 info,umphome,pullj701
 info,ump1b,herpe701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,79
 info,winddir,fromcf
 info,fieldcond,dry
@@ -776,10 +756,6 @@ info,daynight,night
 info,innings,7
 info,umphome,liu-s701
 info,ump1b,pullj701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,81
 info,winddir,unknown
 info,fieldcond,dry
@@ -953,10 +929,6 @@ info,daynight,night
 info,innings,7
 info,umphome,liu-s701
 info,ump1b,pullj701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,88
 info,winddir,rtol
 info,fieldcond,dry
@@ -1128,10 +1100,6 @@ info,daynight,night
 info,innings,7
 info,umphome,hartk701
 info,ump1b,monaa701
-info,ump2b,(none)
-info,ump3b,(none)
-info,umplf,(none)
-info,umprf,(none)
 info,temp,79
 info,winddir,fromcf
 info,fieldcond,dry

@@ -10,10 +10,7 @@ info,daynight,night
 info,innings,7
 info,umphome,dinek701
 info,ump1b,mckej701
-info,ump2b,(none)
 info,ump3b,hartk701
-info,umplf,(none)
-info,umprf,(none)
 info,temp,75
 info,winddir,torf
 info,fieldcond,dry
@@ -158,17 +155,14 @@ info,daynight,night
 info,innings,7
 info,umphome,monaa701
 info,ump1b,hartk701
-info,ump2b,(none)
 info,ump3b,mckej701
-info,umplf,(none)
-info,umprf,(none)
 info,temp,83
 info,winddir,rtol
 info,fieldcond,dry
 info,precip,none
 info,sky,overcast
 info,timeofgame,135
-info,wp,albaj201
+info,wp,ecken201
 info,lp,benap201
 info,save,(none)
 start,giana201,"Amanda Gianelloni",0,1,4
@@ -206,7 +200,7 @@ play,2,0,delcr201,02,CFX,3/G
 play,2,0,yamaa201,11,CBX,4/L
 play,2,0,giana201,31,BCBBX,D7/L
 play,2,0,whitk201,30,VVVV,I
-play,2,0,kapls201,10,BX,HR/F8D.2-H(NR);1-H(NR)
+play,2,0,kapls201,10,BX,HR/F8D.2-H(RBI);1-H(RBI)
 play,2,0,lebla201,11,BCX,8/F
 play,2,1,bryad201,32,BBFBCS,K
 play,2,1,geldt201,32,BSFFBBB,W
@@ -271,7 +265,7 @@ com,"$Great sliding catch by Whitmore"
 play,5,1,delee201,12,CBCS,K
 play,6,0,lebla201,20,BBX,S9/L
 play,6,0,jorga201,22,FCBFBX,7/L
-play,6,0,leguj201,20,BBX,7(B)3(1)/LDP
+play,6,0,leguj201,20,BBX,7(B)3(1)/LDP/L
 com,"$Great basket catch followed by an amazing throw and tag of first base to get the runner out"
 play,6,1,hastl201,00,,NP
 sub,gildl201,"Liz Gilder",0,0,1
