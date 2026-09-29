@@ -62,11 +62,11 @@ getRetrosheet <- function(type, team, schedSplit = NULL, stringsAsFactors = FALS
         stop("argument 'team' must be supplied when 'type = \"play\"")
     }
 
-    #path <- switch(type,
-     #              "game" = "/gamelogs/gl%d.zip",
-      #             "play" = "/events/%deve.zip",
-       #            "roster" = "/events/%deve.zip",
-        #           "schedule" = "/schedule/%dSKED.zip")
+    path <- switch(type,
+                   "game" = "./gamelogs/gl2026.txt",
+                   "play" = sprintf("./events/2026%s.EVW",team),
+                   "roster" = sprintf("./rosters/%s2026.ROS",team),
+                   "schedule" = "./schedules/2026schedule.csv")
 
     # If cache is NA, download to a temp location
    # if (is.na(cache)) {
@@ -108,7 +108,8 @@ getRetrosheet <- function(type, team, schedSplit = NULL, stringsAsFactors = FALS
     if (type == "schedule") {
 
         # Open the file, get the first row that contains the original names
-        zcon <- "./schedules/2026schedule.csv"
+        #zcon <- "./schedules/2026schedule.csv"
+        zcon <- path
         unparsed_file <- readLines(zcon)
         #close(zcon)
 
@@ -133,7 +134,8 @@ getRetrosheet <- function(type, team, schedSplit = NULL, stringsAsFactors = FALS
     if (type == "game") {
 
         # Open the file, get the first row that contains the original names
-        zcon <- "./gamelogs/gl2026.txt"
+        #zcon <- "./gamelogs/gl2026.txt"
+        zcon <- path
         unparsed_file <- readLines(zcon)
         #close(zcon)
 
@@ -151,13 +153,13 @@ getRetrosheet <- function(type, team, schedSplit = NULL, stringsAsFactors = FALS
 
     if (type == "roster") {
 
-        rosFiles <- grep(".ROS", fname, value = TRUE, fixed = TRUE)
-
+        #rosFiles <- grep(".ROS", fname, value = TRUE, fixed = TRUE)
+        rosFiles <- path
+    
         read <- lapply(rosFiles, function(x) {
-
-            zcon <- unz(tmp, filename = x)
+            #zcon <- unz(tmp, filename = x)
+            zcon <- rosFiles 
             unparsed_file <- strsplit(readLines(zcon), ",")
-            close(zcon)
 
             original_cols <- unlist(strsplit(unparsed_file[[1]], ","))
 
@@ -172,10 +174,12 @@ getRetrosheet <- function(type, team, schedSplit = NULL, stringsAsFactors = FALS
         out <- setNames(read, substr(rosFiles, 1L, 3L))
         return(out)
     }
-    zcon <- unz(tmp, filename = paste0("TEAM"))
-    allTeams <- readLines(zcon)
-    close(zcon)
-    team <- match.arg(team, substr(allTeams, 1L, 3L))
+    #event begins here
+    #zcon <- unz(tmp, filename = paste0("TEAM"))
+    zcon <- path
+    #allTeams <- readLines(zcon)
+    #close(zcon)
+    #team <- match.arg(team, substr(allTeams, 1L, 3L))
 
     # function for single game parsing
     doGame <- function(x) {
@@ -197,11 +201,11 @@ getRetrosheet <- function(type, team, schedSplit = NULL, stringsAsFactors = FALS
         ans
     }
 
-    rgx <- paste(team, "EV", sep = ".")
-    fnm <- grep(rgx, fname, value = TRUE, fixed = TRUE)
-    zcon <- unz(tmp, filename = fnm)
+    #rgx <- paste(team, "EV", sep = ".") <- this may be foolish
+    #fnm <- grep(rgx, fname, value = TRUE, fixed = TRUE) <- this may be foolish
+    #zcon <- unz(tmp, filename = fnm)
     r <- readLines(zcon)
-    close(zcon)
+    #close(zcon)
     g <- grepl("^id", r)
     sr <- unname(split(gsub("\"", "", r), cumsum(g)))
     res <- lapply(sr, doGame)
