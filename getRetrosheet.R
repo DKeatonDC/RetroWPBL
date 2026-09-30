@@ -191,7 +191,7 @@ getRetrosheet <- function(type, team, schedSplit = NULL, stringsAsFactors = FALS
             v[[i]] <- sx[match(sc, outer) == i]
         }
         names(v) <- outer
-        v[-c(1:2, 6L)] <- lapply(v[-c(1:2, 6L)], stri_split_fixed, ",", simplify = TRUE)
+        v[-c(1:2, 6L)] <- lapply(v[-c(1:2, 6L)], stringi::stri_split_fixed, ",", simplify = TRUE)
 
         ans <- Map(function(A, B) {
             if (NCOL(A) == length(B) | is.null(dim(A))) {
