@@ -264,7 +264,7 @@ sub,daybe201,"Ela Day-Bedard",1,0,1
 play,4,0,edwas201,00,.X,7/F.3-H(E2)(NR)(UR);1-2
 com,"$Throw to the catcher went under her glove"
 play,4,0,foxxm201,00,X,S8/G.2-H(RBI)(UR)
-play,4,0,honda201,00,X,D9/F.1-H(96E2)(NR)(UR)
+play,4,0,honda201,00,X,D9/F.1XH(96E2)(NR)(UR)
 com,"$To the wall, relay throw had the runner from first well beat but the catcher fumbled"
 play,4,0,ibard201,11,BCH,HP
 com,"$The throw caught Ibarra flush on the shoulder"
