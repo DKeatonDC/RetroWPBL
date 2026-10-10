@@ -40,4 +40,25 @@ if (type == "schedule") {
         out <- read.csv(file = path, header=FALSE,col.names=retrosheetFields$roster)
         return(out)
     }
+    #events begin here
+
+    #function for single game parsing, invoked by 
+    doGame <- function(x) {
+        sc <- scan(text = x, sep = ",", what = "", flush = TRUE, quiet = TRUE)
+        outer <- retrosheetFields$eventOuter
+        v <- vector("list", 8L)
+        for(i in seq_len(8L)) {
+            sx <- substr(x, regexpr(",", x, fixed = TRUE) + 1L, nchar(x))
+            v[[i]] <- sx[match(sc, outer) == i]
+        }
+        names(v) <- outer
+        v[-c(1:2, 6L)] <- lapply(v[-c(1:2, 6L)], stringi::stri_split_fixed, ",", simplify = TRUE)
+
+        ans <- Map(function(A, B) {
+            if (NCOL(A) == length(B) | is.null(dim(A))) {
+                colnames(A) <- B; A
+            } else { NULL }
+        },  A = v, B = retrosheetFields$eventInner)
+        ans
+    }
 }
