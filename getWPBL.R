@@ -7,7 +7,8 @@ getWPBL <- function(type, team, schedSplit = NULL, stringsAsFactors = FALSE){
 path <- switch(type,
                    "schedule" = "./schedules/2026schedule.csv",
                    "game" = "./gamelogs/gl2026.txt",
-                   "roster" = sprintf("./rosters/%s2026.ROS",team))
+                   "roster" = sprintf("./rosters/%s2026.ROS",team),
+                   "play" = sprintf("./events/2026%s.EVW", team))
 
 if (type == "schedule") {
 
@@ -61,4 +62,9 @@ if (type == "schedule") {
         },  A = v, B = retrosheetFields$eventInner)
         ans
     }
+    r <- readLines(path)
+    g <- grepl("^id", r)
+    sr <- unname(split(gsub("\"", "", r), cumsum(g)))
+    res <-lapply(sr, doGame)
+    res
 }
