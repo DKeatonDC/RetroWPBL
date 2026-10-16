@@ -5,10 +5,10 @@ getWPBL <- function(type, team, schedSplit = NULL, stringsAsFactors = FALSE){
         stop("argument 'team' must be supplied when 'type = \"play\"")
     }
 path <- switch(type,
-                   "schedule" = "./schedules/2026schedule.csv",
-                   "game" = "./gamelogs/gl2026.txt",
-                   "roster" = sprintf("./rosters/%s2026.ROS",team),
-                   "play" = sprintf("./events/2026%s.EVW", team))
+                   "game" = "./alldata/gamelogs/gl2026.txt",
+                   "schedule" = "./alldata/schedules/2026schedule.csv",
+                   "roster" = sprintf("./alldata/rosters/%s2026.ROS",team),
+                   "play" = sprintf("./alldata/events/2026%s.EVW", team))
 
 if (type == "schedule") {
 
