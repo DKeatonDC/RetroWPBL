@@ -68,7 +68,7 @@ getRetrosheet <- function(type, team, schedSplit = NULL, stringsAsFactors = FALS
                    "roster" = sprintf("./rosters/%s2026.ROS",team),
                    "schedule" = "./schedules/2026schedule.csv")
 
-    # If cache is NA, download to a temp location
+# If cache is NA, download to a temp location
    # if (is.na(cache)) {
     #    fullPath <- sprintf(paste0("https://www.retrosheet.org", path), year)
      #   if(!http_error(fullPath)) {
