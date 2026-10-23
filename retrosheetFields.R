@@ -101,9 +101,17 @@ retrosheetFields <- list(
 #RUNNER2 <- ifelse(as.character(event_object[ , "second_runner"]) == "", 0, 1)
 #RUNNER3 <- ifelse(as.character(event_object[ , "third_runner"]) == "", 0, 1)
 
-get.state <-function(event_object){
+get_state <-function(event_object){
     runners <- paste (ifelse(as.character(event_object[ , "first_runner"]) == "", 0, 1), ifelse(as.character(event_object[ , "second_runner"]) == "", 0, 1), ifelse(as.character(event_object[ , "third_runner"]) == "", 0, 1), sep="")
     paste(runners,event_object$outs)
+}
+
+get_new_state <-function(event_object){
+    runners <- paste (
+        with(event_object, as.numeric(runner_on_1st_dest == 1 | batter_dest == 1)),
+        with(event_object, as.numeric(runner_on_1st_dest == 2 | runner_on_2nd_dest == 2 | batter_dest == 2)),
+        with(event_object, as.numeric(runner_on_1st_dest == 3 | runner_on_2nd_dest == 3 | runner_on_3rd_dest ==3 | batter_dest == 3)),sep = "")
+    paste(runners,event_object$outs + event_object$outs_on_play)
 }
 
 get_column_names <- function(raw_names, type, field_map = retrosheetFields) {
